@@ -1,0 +1,44 @@
+Tom Deane
+CS244A
+PA3- STCP PART B
+
+
+TIME_WAIT support:
+I support the TIME_WAIT state in my implementation of STCP to allow ACKs to be sent
+for incoming FIN packet(s).  It is currently set to just 1 second so that when you call
+./client it does not take forever to close.  The value can be adjusted through TIME_WAIT_VALUE
+  
+
+Send/Receive Windows:
+The windows are linked lists of packets.  I keep track of a tail(end) pointer and a head(start)
+pointer for O(1) inserts and deletes (except for inserts to receive window which must be placed
+in order).
+Both windows are always sorted in increasing sequence number.
+When a packet is added to the receive window, I first determine its correct location within the window
+and I check to make sure that this incoming packet is not overwriting and not being overwritten by an 
+exisiting packet in the buffer. If it is, then I drop the packet.
+If the packet added to the receive buffer corresponds to the last ACK I sent out (i.e. the packet is
+in order), then I pass up to the application that packet data plus the rest of the packets that are now in
+order in the receive buffer.
+
+Retransmission:
+I store the time each packet was sent but I use the time of the packet at the start of the send window
+for timeout purposes.  This is a valid approach as STCP sends packets in order. When I receive an ACK
+for this or a later packet, I clear all packets up to this ACK in the send window and I thus start
+using the time of the next un-acked packet to detect a timeout. When a timeout takes place, I re-send
+all packets in the window, increasing the number of transmissions by 1 for each packet, and restarting
+their respective timers.
+
+	
+Estimating RTO:
+When I receive an ACK for a non-retransmitted packet, I measure the RTT (sample_rtt) and calculate
+RTO using the following equation:
+	ALPHA = 0.125. Beta = 0.25
+	estimated_rtt = ((1.0-ALPHA)*sample_rtt) + (ALPHA*estimated_rtt);
+	devrtt = (1.0 - BETA)*devrtt + BETA*(fabs(sample_rtt - estimated_rtt));
+	rto = 3.0*estimated_rtt + 4.0*devrtt;
+I used 3*estimate_rtt because smaller factors caused the maximum number of retransmissions
+to happen fairly frequently. 
+When a timeout takes place, I multiply the current RTO by 2 as mentioned in K&R. 
+I cap RTO to 500ms to prevent very long waits from taking place.
+

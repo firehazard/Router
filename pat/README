@@ -1,0 +1,18 @@
+Tom Deane
+CS244a - PA4
+March 13th, 2007
+
+I'm using the reference version of STCP... though I'm submitting my version of transport.c as well since I
+believe it works fine (I guess I just wanted to reduce the risk of a bug I haven't seen by using one free 
+binary). 
+I'm using my version of the proxy and the router.
+
+I havent made any extra additions.
+
+
+
+Thanks,
+Tom
+
+
+  

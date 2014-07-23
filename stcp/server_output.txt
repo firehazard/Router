@@ -1,0 +1,4789 @@
+PASSIVE - RCVD SYN with seq: 61
+PASSIVE - SEND SYN_ACK Packet with seq: 125 and ack: 62 
+PASSIVE - RCVD Last Ack Packet has seq: 62 and ack: 126 
+Received 10 bytes of data with seq: 62, last ack sent: 62
+Added Recv: 62 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 62 to application 
+Sending ack: 72 with seq: 126
+Starting timer after empty window
+Added Seq: 126 to send buffer
+Sending packet with seq: 126 of size: 36
+Waiting with RTO for Seq:126 
+Added Seq: 142 to send buffer
+Sending packet with seq: 142 of size: 40
+Waiting with RTO for Seq:126 
+Ack:142 received - Prior Window Bottom:126 - Window Top: 162
+Removing Seq: 126 from sender's buffer
+Waiting with RTO for Seq:142 
+Ack:162 received - Prior Window Bottom:142 - Window Top: 162
+Removing Seq: 142 from sender's buffer
+Received 0 bytes of data with seq: 72, last ack sent: 72
+Added Recv: 72 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 73 with seq: 162
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 162 to send buffer
+Waiting with RTO for Seq:162 
+Received 0 bytes of data with seq: 72, last ack sent: 73
+Received Duplicate Packet with seq: 72
+Sending ack: 73 with seq: 163
+Waiting with RTO for Seq:162 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 121
+PASSIVE - SEND SYN_ACK Packet with seq: 15 and ack: 122 
+PASSIVE - RCVD Last Ack Packet has seq: 122 and ack: 16 
+Received 10 bytes of data with seq: 122, last ack sent: 122
+Added Recv: 122 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 122 to application 
+Sending ack: 132 with seq: 16
+Starting timer after empty window
+Added Seq: 16 to send buffer
+Sending packet with seq: 16 of size: 36
+Waiting with RTO for Seq:16 
+Added Seq: 32 to send buffer
+Sending packet with seq: 32 of size: 40
+Waiting with RTO for Seq:16 
+Ack:32 received - Prior Window Bottom:16 - Window Top: 52
+Removing Seq: 16 from sender's buffer
+Waiting with RTO for Seq:32 
+Ack:52 received - Prior Window Bottom:32 - Window Top: 52
+Removing Seq: 32 from sender's buffer
+Received 0 bytes of data with seq: 132, last ack sent: 132
+Added Recv: 132 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 133 with seq: 52
+Received 0 bytes of data with seq: 132, last ack sent: 133
+Received Duplicate Packet with seq: 132
+Sending ack: 133 with seq: 52
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 52 to send buffer
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 132, last ack sent: 133
+Received Duplicate Packet with seq: 132
+Sending ack: 133 with seq: 53
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 132, last ack sent: 133
+Received Duplicate Packet with seq: 132
+Sending ack: 133 with seq: 53
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 132, last ack sent: 133
+Received Duplicate Packet with seq: 132
+Sending ack: 133 with seq: 53
+Waiting with RTO for Seq:52 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 100
+PASSIVE - SEND SYN_ACK Packet with seq: 236 and ack: 101 
+PASSIVE - RCVD Last Ack Packet has seq: 101 and ack: 237 
+Received 10 bytes of data with seq: 101, last ack sent: 101
+Added Recv: 101 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 101 to application 
+Sending ack: 111 with seq: 237
+Starting timer after empty window
+Added Seq: 237 to send buffer
+Sending packet with seq: 237 of size: 36
+Waiting with RTO for Seq:237 
+Added Seq: 253 to send buffer
+Sending packet with seq: 253 of size: 40
+Waiting with RTO for Seq:237 
+Ack:253 received - Prior Window Bottom:237 - Window Top: 273
+Removing Seq: 237 from sender's buffer
+Waiting with RTO for Seq:253 
+Ack:273 received - Prior Window Bottom:253 - Window Top: 273
+Removing Seq: 253 from sender's buffer
+Received 0 bytes of data with seq: 111, last ack sent: 111
+Added Recv: 111 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 112 with seq: 273
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 273
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 273 to send buffer
+Waiting with RTO for Seq:273 
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 274
+Waiting with RTO for Seq:273 
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 274
+Waiting with RTO for Seq:273 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 77
+PASSIVE - SEND SYN_ACK Packet with seq: 71 and ack: 78 
+PASSIVE - RCVD Last Ack Packet has seq: 78 and ack: 72 
+Received 10 bytes of data with seq: 78, last ack sent: 78
+Added Recv: 78 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 78 to application 
+Sending ack: 88 with seq: 72
+Starting timer after empty window
+Added Seq: 72 to send buffer
+Sending packet with seq: 72 of size: 36
+Waiting with RTO for Seq:72 
+Added Seq: 88 to send buffer
+Sending packet with seq: 88 of size: 40
+Waiting with RTO for Seq:72 
+Ack:88 received - Prior Window Bottom:72 - Window Top: 108
+Removing Seq: 72 from sender's buffer
+Waiting with RTO for Seq:88 
+Ack:108 received - Prior Window Bottom:88 - Window Top: 108
+Removing Seq: 88 from sender's buffer
+Received 0 bytes of data with seq: 88, last ack sent: 88
+Added Recv: 88 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 89 with seq: 108
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 108
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 108 to send buffer
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 109
+Waiting with RTO for Seq:108 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 182
+PASSIVE - SEND SYN_ACK Packet with seq: 34 and ack: 183 
+PASSIVE - RCVD Last Ack Packet has seq: 183 and ack: 35 
+Received 10 bytes of data with seq: 183, last ack sent: 183
+Added Recv: 183 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 183 to application 
+Sending ack: 193 with seq: 35
+Starting timer after empty window
+Added Seq: 35 to send buffer
+Sending packet with seq: 35 of size: 36
+Waiting with RTO for Seq:35 
+Added Seq: 51 to send buffer
+Sending packet with seq: 51 of size: 40
+Waiting with RTO for Seq:35 
+Ack:51 received - Prior Window Bottom:35 - Window Top: 71
+Removing Seq: 35 from sender's buffer
+Waiting with RTO for Seq:51 
+Ack:71 received - Prior Window Bottom:51 - Window Top: 71
+Removing Seq: 51 from sender's buffer
+Received 0 bytes of data with seq: 193, last ack sent: 193
+Added Recv: 193 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 194 with seq: 71
+Received 0 bytes of data with seq: 193, last ack sent: 194
+Received Duplicate Packet with seq: 193
+Sending ack: 194 with seq: 71
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 71 to send buffer
+Waiting with RTO for Seq:71 
+Received 0 bytes of data with seq: 193, last ack sent: 194
+Received Duplicate Packet with seq: 193
+Sending ack: 194 with seq: 72
+Waiting with RTO for Seq:71 
+Received 0 bytes of data with seq: 193, last ack sent: 194
+Received Duplicate Packet with seq: 193
+Sending ack: 194 with seq: 72
+Waiting with RTO for Seq:71 
+Received 0 bytes of data with seq: 193, last ack sent: 194
+Received Duplicate Packet with seq: 193
+Sending ack: 194 with seq: 72
+Waiting with RTO for Seq:71 
+Received 0 bytes of data with seq: 193, last ack sent: 194
+Received Duplicate Packet with seq: 193
+Sending ack: 194 with seq: 72
+Waiting with RTO for Seq:71 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 182
+PASSIVE - SEND SYN_ACK Packet with seq: 34 and ack: 183 
+PASSIVE - RCVD Last Ack Packet has seq: 183 and ack: 35 
+Received 10 bytes of data with seq: 183, last ack sent: 183
+Added Recv: 183 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 183 to application 
+Sending ack: 193 with seq: 35
+Starting timer after empty window
+Added Seq: 35 to send buffer
+Sending packet with seq: 35 of size: 36
+Waiting with RTO for Seq:35 
+Added Seq: 51 to send buffer
+Sending packet with seq: 51 of size: 40
+Waiting with RTO for Seq:35 
+Ack:51 received - Prior Window Bottom:35 - Window Top: 71
+Removing Seq: 35 from sender's buffer
+Waiting with RTO for Seq:51 
+Ack:71 received - Prior Window Bottom:51 - Window Top: 71
+Removing Seq: 51 from sender's buffer
+Received 0 bytes of data with seq: 193, last ack sent: 193
+Added Recv: 193 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 194 with seq: 71
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 71 to send buffer
+Waiting with RTO for Seq:71 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 87
+PASSIVE - SEND SYN_ACK Packet with seq: 55 and ack: 88 
+PASSIVE - RCVD Last Ack Packet has seq: 88 and ack: 56 
+Received 10 bytes of data with seq: 88, last ack sent: 88
+Added Recv: 88 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 88 to application 
+Sending ack: 98 with seq: 56
+Starting timer after empty window
+Added Seq: 56 to send buffer
+Sending packet with seq: 56 of size: 36
+Waiting with RTO for Seq:56 
+Added Seq: 72 to send buffer
+Sending packet with seq: 72 of size: 40
+Waiting with RTO for Seq:56 
+Ack:72 received - Prior Window Bottom:56 - Window Top: 92
+Removing Seq: 56 from sender's buffer
+Waiting with RTO for Seq:72 
+Ack:92 received - Prior Window Bottom:72 - Window Top: 92
+Removing Seq: 72 from sender's buffer
+Received 0 bytes of data with seq: 98, last ack sent: 98
+Added Recv: 98 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 99 with seq: 92
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 92
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 92 to send buffer
+Waiting with RTO for Seq:92 
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 93
+Waiting with RTO for Seq:92 
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 93
+Waiting with RTO for Seq:92 
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 93
+Waiting with RTO for Seq:92 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 87
+PASSIVE - SEND SYN_ACK Packet with seq: 55 and ack: 88 
+PASSIVE - RCVD Last Ack Packet has seq: 88 and ack: 56 
+Received 10 bytes of data with seq: 88, last ack sent: 88
+Added Recv: 88 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 88 to application 
+Sending ack: 98 with seq: 56
+Starting timer after empty window
+Added Seq: 56 to send buffer
+Sending packet with seq: 56 of size: 36
+Waiting with RTO for Seq:56 
+Added Seq: 72 to send buffer
+Sending packet with seq: 72 of size: 40
+Waiting with RTO for Seq:56 
+Ack:72 received - Prior Window Bottom:56 - Window Top: 92
+Removing Seq: 56 from sender's buffer
+Waiting with RTO for Seq:72 
+Ack:92 received - Prior Window Bottom:72 - Window Top: 92
+Removing Seq: 72 from sender's buffer
+Received 0 bytes of data with seq: 98, last ack sent: 98
+Added Recv: 98 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 99 with seq: 92
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 92
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 92 to send buffer
+Waiting with RTO for Seq:92 
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 93
+Waiting with RTO for Seq:92 
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 93
+Waiting with RTO for Seq:92 
+Received 0 bytes of data with seq: 98, last ack sent: 99
+Received Duplicate Packet with seq: 98
+Sending ack: 99 with seq: 93
+Waiting with RTO for Seq:92 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 250
+PASSIVE - SEND SYN_ACK Packet with seq: 12 and ack: 251 
+PASSIVE - RCVD Last Ack Packet has seq: 251 and ack: 13 
+Received 10 bytes of data with seq: 251, last ack sent: 251
+Added Recv: 251 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 251 to application 
+Sending ack: 261 with seq: 13
+Starting timer after empty window
+Added Seq: 13 to send buffer
+Sending packet with seq: 13 of size: 36
+Waiting with RTO for Seq:13 
+Added Seq: 29 to send buffer
+Sending packet with seq: 29 of size: 40
+Waiting with RTO for Seq:13 
+Ack:29 received - Prior Window Bottom:13 - Window Top: 49
+Removing Seq: 13 from sender's buffer
+Waiting with RTO for Seq:29 
+Ack:49 received - Prior Window Bottom:29 - Window Top: 49
+Removing Seq: 29 from sender's buffer
+Received 0 bytes of data with seq: 261, last ack sent: 261
+Added Recv: 261 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 262 with seq: 49
+Received 0 bytes of data with seq: 261, last ack sent: 262
+Received Duplicate Packet with seq: 261
+Sending ack: 262 with seq: 49
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 49 to send buffer
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 261, last ack sent: 262
+Received Duplicate Packet with seq: 261
+Sending ack: 262 with seq: 50
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 261, last ack sent: 262
+Received Duplicate Packet with seq: 261
+Sending ack: 262 with seq: 50
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 261, last ack sent: 262
+Received Duplicate Packet with seq: 261
+Sending ack: 262 with seq: 50
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 261, last ack sent: 262
+Received Duplicate Packet with seq: 261
+Sending ack: 262 with seq: 50
+Waiting with RTO for Seq:49 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 100
+PASSIVE - SEND SYN_ACK Packet with seq: 233 and ack: 101 
+PASSIVE - RCVD Last Ack Packet has seq: 101 and ack: 234 
+Received 10 bytes of data with seq: 101, last ack sent: 101
+Added Recv: 101 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 101 to application 
+Sending ack: 111 with seq: 234
+Starting timer after empty window
+Added Seq: 234 to send buffer
+Sending packet with seq: 234 of size: 36
+Waiting with RTO for Seq:234 
+Added Seq: 250 to send buffer
+Sending packet with seq: 250 of size: 40
+Waiting with RTO for Seq:234 
+Ack:250 received - Prior Window Bottom:234 - Window Top: 270
+Removing Seq: 234 from sender's buffer
+Waiting with RTO for Seq:250 
+Ack:270 received - Prior Window Bottom:250 - Window Top: 270
+Removing Seq: 250 from sender's buffer
+Received 0 bytes of data with seq: 111, last ack sent: 111
+Added Recv: 111 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 112 with seq: 270
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 270
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 270 to send buffer
+Waiting with RTO for Seq:270 
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 271
+Waiting with RTO for Seq:270 
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 271
+Waiting with RTO for Seq:270 
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 271
+Waiting with RTO for Seq:270 
+Received 0 bytes of data with seq: 111, last ack sent: 112
+Received Duplicate Packet with seq: 111
+Sending ack: 112 with seq: 271
+Waiting with RTO for Seq:270 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 77
+PASSIVE - SEND SYN_ACK Packet with seq: 195 and ack: 78 
+PASSIVE - RCVD Last Ack Packet has seq: 78 and ack: 196 
+Received 10 bytes of data with seq: 78, last ack sent: 78
+Added Recv: 78 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 78 to application 
+Sending ack: 88 with seq: 196
+Starting timer after empty window
+Added Seq: 196 to send buffer
+Sending packet with seq: 196 of size: 36
+Waiting with RTO for Seq:196 
+Added Seq: 212 to send buffer
+Sending packet with seq: 212 of size: 40
+Waiting with RTO for Seq:196 
+Ack:212 received - Prior Window Bottom:196 - Window Top: 232
+Removing Seq: 196 from sender's buffer
+Waiting with RTO for Seq:212 
+Ack:232 received - Prior Window Bottom:212 - Window Top: 232
+Removing Seq: 212 from sender's buffer
+Received 0 bytes of data with seq: 88, last ack sent: 88
+Added Recv: 88 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 89 with seq: 232
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 232
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 232 to send buffer
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 233
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 233
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 88, last ack sent: 89
+Received Duplicate Packet with seq: 88
+Sending ack: 89 with seq: 233
+Waiting with RTO for Seq:232 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 183
+PASSIVE - SEND SYN_ACK Packet with seq: 159 and ack: 184 
+PASSIVE - RCVD Last Ack Packet has seq: 184 and ack: 160 
+Received 10 bytes of data with seq: 184, last ack sent: 184
+Added Recv: 184 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 184 to application 
+Sending ack: 194 with seq: 160
+Starting timer after empty window
+Added Seq: 160 to send buffer
+Sending packet with seq: 160 of size: 36
+Waiting with RTO for Seq:160 
+Added Seq: 176 to send buffer
+Sending packet with seq: 176 of size: 40
+Waiting with RTO for Seq:160 
+Ack:176 received - Prior Window Bottom:160 - Window Top: 196
+Removing Seq: 160 from sender's buffer
+Waiting with RTO for Seq:176 
+Ack:196 received - Prior Window Bottom:176 - Window Top: 196
+Removing Seq: 176 from sender's buffer
+Received 0 bytes of data with seq: 194, last ack sent: 194
+Added Recv: 194 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 195 with seq: 196
+Received 0 bytes of data with seq: 194, last ack sent: 195
+Received Duplicate Packet with seq: 194
+Sending ack: 195 with seq: 196
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 196 to send buffer
+Waiting with RTO for Seq:196 
+Received 0 bytes of data with seq: 194, last ack sent: 195
+Received Duplicate Packet with seq: 194
+Sending ack: 195 with seq: 197
+Waiting with RTO for Seq:196 
+Received 0 bytes of data with seq: 194, last ack sent: 195
+Received Duplicate Packet with seq: 194
+Sending ack: 195 with seq: 197
+Waiting with RTO for Seq:196 
+Received 0 bytes of data with seq: 194, last ack sent: 195
+Received Duplicate Packet with seq: 194
+Sending ack: 195 with seq: 197
+Waiting with RTO for Seq:196 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 139
+PASSIVE - SEND SYN_ACK Packet with seq: 215 and ack: 140 
+PASSIVE - RCVD Last Ack Packet has seq: 140 and ack: 216 
+Received 10 bytes of data with seq: 140, last ack sent: 140
+Added Recv: 140 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 140 to application 
+Sending ack: 150 with seq: 216
+Starting timer after empty window
+Added Seq: 216 to send buffer
+Sending packet with seq: 216 of size: 36
+Waiting with RTO for Seq:216 
+Added Seq: 232 to send buffer
+Sending packet with seq: 232 of size: 40
+Waiting with RTO for Seq:216 
+Ack:232 received - Prior Window Bottom:216 - Window Top: 252
+Removing Seq: 216 from sender's buffer
+Waiting with RTO for Seq:232 
+Ack:252 received - Prior Window Bottom:232 - Window Top: 252
+Removing Seq: 232 from sender's buffer
+Received 0 bytes of data with seq: 150, last ack sent: 150
+Added Recv: 150 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 151 with seq: 252
+Received 0 bytes of data with seq: 150, last ack sent: 151
+Received Duplicate Packet with seq: 150
+Sending ack: 151 with seq: 252
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 252 to send buffer
+Waiting with RTO for Seq:252 
+Received 0 bytes of data with seq: 150, last ack sent: 151
+Received Duplicate Packet with seq: 150
+Sending ack: 151 with seq: 253
+Waiting with RTO for Seq:252 
+Received 0 bytes of data with seq: 150, last ack sent: 151
+Received Duplicate Packet with seq: 150
+Sending ack: 151 with seq: 253
+Waiting with RTO for Seq:252 
+Received 0 bytes of data with seq: 150, last ack sent: 151
+Received Duplicate Packet with seq: 150
+Sending ack: 151 with seq: 253
+Waiting with RTO for Seq:252 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 63
+PASSIVE - SEND SYN_ACK Packet with seq: 102 and ack: 64 
+PASSIVE - RCVD Last Ack Packet has seq: 64 and ack: 103 
+Received 10 bytes of data with seq: 64, last ack sent: 64
+Added Recv: 64 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 64 to application 
+Sending ack: 74 with seq: 103
+Starting timer after empty window
+Added Seq: 103 to send buffer
+Sending packet with seq: 103 of size: 36
+Waiting with RTO for Seq:103 
+Added Seq: 119 to send buffer
+Sending packet with seq: 119 of size: 40
+Waiting with RTO for Seq:103 
+Ack:119 received - Prior Window Bottom:103 - Window Top: 139
+Removing Seq: 103 from sender's buffer
+Waiting with RTO for Seq:119 
+Ack:139 received - Prior Window Bottom:119 - Window Top: 139
+Removing Seq: 119 from sender's buffer
+Received 0 bytes of data with seq: 74, last ack sent: 74
+Added Recv: 74 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 75 with seq: 139
+Received 0 bytes of data with seq: 74, last ack sent: 75
+Received Duplicate Packet with seq: 74
+Sending ack: 75 with seq: 139
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 139 to send buffer
+Waiting with RTO for Seq:139 
+Received 0 bytes of data with seq: 74, last ack sent: 75
+Received Duplicate Packet with seq: 74
+Sending ack: 75 with seq: 140
+Waiting with RTO for Seq:139 
+Received 0 bytes of data with seq: 74, last ack sent: 75
+Received Duplicate Packet with seq: 74
+Sending ack: 75 with seq: 140
+Waiting with RTO for Seq:139 
+Received 0 bytes of data with seq: 74, last ack sent: 75
+Received Duplicate Packet with seq: 74
+Sending ack: 75 with seq: 140
+Waiting with RTO for Seq:139 
+Received 0 bytes of data with seq: 74, last ack sent: 75
+Received Duplicate Packet with seq: 74
+Sending ack: 75 with seq: 140
+Waiting with RTO for Seq:139 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 78
+PASSIVE - SEND SYN_ACK Packet with seq: 48 and ack: 79 
+PASSIVE - RCVD Last Ack Packet has seq: 79 and ack: 49 
+Received 10 bytes of data with seq: 79, last ack sent: 79
+Added Recv: 79 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 79 to application 
+Sending ack: 89 with seq: 49
+Starting timer after empty window
+Added Seq: 49 to send buffer
+Sending packet with seq: 49 of size: 36
+Waiting with RTO for Seq:49 
+Added Seq: 65 to send buffer
+Sending packet with seq: 65 of size: 40
+Waiting with RTO for Seq:49 
+Ack:65 received - Prior Window Bottom:49 - Window Top: 85
+Removing Seq: 49 from sender's buffer
+Waiting with RTO for Seq:65 
+Ack:85 received - Prior Window Bottom:65 - Window Top: 85
+Removing Seq: 65 from sender's buffer
+Received 0 bytes of data with seq: 89, last ack sent: 89
+Added Recv: 89 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 90 with seq: 85
+Received 0 bytes of data with seq: 89, last ack sent: 90
+Received Duplicate Packet with seq: 89
+Sending ack: 90 with seq: 85
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 85 to send buffer
+Waiting with RTO for Seq:85 
+Received 0 bytes of data with seq: 89, last ack sent: 90
+Received Duplicate Packet with seq: 89
+Sending ack: 90 with seq: 86
+Waiting with RTO for Seq:85 
+Received 0 bytes of data with seq: 89, last ack sent: 90
+Received Duplicate Packet with seq: 89
+Sending ack: 90 with seq: 86
+Waiting with RTO for Seq:85 
+Received 0 bytes of data with seq: 89, last ack sent: 90
+Received Duplicate Packet with seq: 89
+Sending ack: 90 with seq: 86
+Waiting with RTO for Seq:85 
+Received 0 bytes of data with seq: 89, last ack sent: 90
+Received Duplicate Packet with seq: 89
+Sending ack: 90 with seq: 86
+Waiting with RTO for Seq:85 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 184
+PASSIVE - SEND SYN_ACK Packet with seq: 12 and ack: 185 
+PASSIVE - RCVD Last Ack Packet has seq: 185 and ack: 13 
+Received 10 bytes of data with seq: 185, last ack sent: 185
+Added Recv: 185 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 185 to application 
+Sending ack: 195 with seq: 13
+Starting timer after empty window
+Added Seq: 13 to send buffer
+Sending packet with seq: 13 of size: 36
+Waiting with RTO for Seq:13 
+Added Seq: 29 to send buffer
+Sending packet with seq: 29 of size: 40
+Waiting with RTO for Seq:13 
+Ack:29 received - Prior Window Bottom:13 - Window Top: 49
+Removing Seq: 13 from sender's buffer
+Waiting with RTO for Seq:29 
+Ack:49 received - Prior Window Bottom:29 - Window Top: 49
+Removing Seq: 29 from sender's buffer
+Received 0 bytes of data with seq: 195, last ack sent: 195
+Added Recv: 195 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 196 with seq: 49
+Received 0 bytes of data with seq: 195, last ack sent: 196
+Received Duplicate Packet with seq: 195
+Sending ack: 196 with seq: 49
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 49 to send buffer
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 195, last ack sent: 196
+Received Duplicate Packet with seq: 195
+Sending ack: 196 with seq: 50
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 195, last ack sent: 196
+Received Duplicate Packet with seq: 195
+Sending ack: 196 with seq: 50
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 195, last ack sent: 196
+Received Duplicate Packet with seq: 195
+Sending ack: 196 with seq: 50
+Waiting with RTO for Seq:49 
+Received 0 bytes of data with seq: 195, last ack sent: 196
+Received Duplicate Packet with seq: 195
+Sending ack: 196 with seq: 50
+Waiting with RTO for Seq:49 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 162
+PASSIVE - SEND SYN_ACK Packet with seq: 105 and ack: 163 
+PASSIVE - RCVD Last Ack Packet has seq: 163 and ack: 106 
+Received 10 bytes of data with seq: 163, last ack sent: 163
+Added Recv: 163 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 163 to application 
+Sending ack: 173 with seq: 106
+Starting timer after empty window
+Added Seq: 106 to send buffer
+Sending packet with seq: 106 of size: 36
+Waiting with RTO for Seq:106 
+Added Seq: 122 to send buffer
+Sending packet with seq: 122 of size: 40
+Waiting with RTO for Seq:106 
+Ack:122 received - Prior Window Bottom:106 - Window Top: 142
+Removing Seq: 106 from sender's buffer
+Waiting with RTO for Seq:122 
+Ack:142 received - Prior Window Bottom:122 - Window Top: 142
+Removing Seq: 122 from sender's buffer
+Received 0 bytes of data with seq: 173, last ack sent: 173
+Added Recv: 173 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 174 with seq: 142
+Received 0 bytes of data with seq: 173, last ack sent: 174
+Received Duplicate Packet with seq: 173
+Sending ack: 174 with seq: 142
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 142 to send buffer
+Waiting with RTO for Seq:142 
+Received 0 bytes of data with seq: 173, last ack sent: 174
+Received Duplicate Packet with seq: 173
+Sending ack: 174 with seq: 143
+Waiting with RTO for Seq:142 
+Received 0 bytes of data with seq: 173, last ack sent: 174
+Received Duplicate Packet with seq: 173
+Sending ack: 174 with seq: 143
+Waiting with RTO for Seq:142 
+Received 0 bytes of data with seq: 173, last ack sent: 174
+Received Duplicate Packet with seq: 173
+Sending ack: 174 with seq: 143
+Waiting with RTO for Seq:142 
+Received 0 bytes of data with seq: 173, last ack sent: 174
+Received Duplicate Packet with seq: 173
+Sending ack: 174 with seq: 143
+Waiting with RTO for Seq:142 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 140
+PASSIVE - SEND SYN_ACK Packet with seq: 195 and ack: 141 
+PASSIVE - RCVD Last Ack Packet has seq: 141 and ack: 196 
+Received 10 bytes of data with seq: 141, last ack sent: 141
+Added Recv: 141 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 141 to application 
+Sending ack: 151 with seq: 196
+Starting timer after empty window
+Added Seq: 196 to send buffer
+Sending packet with seq: 196 of size: 36
+Waiting with RTO for Seq:196 
+Added Seq: 212 to send buffer
+Sending packet with seq: 212 of size: 40
+Waiting with RTO for Seq:196 
+Ack:212 received - Prior Window Bottom:196 - Window Top: 232
+Removing Seq: 196 from sender's buffer
+Waiting with RTO for Seq:212 
+Ack:232 received - Prior Window Bottom:212 - Window Top: 232
+Removing Seq: 212 from sender's buffer
+Received 0 bytes of data with seq: 151, last ack sent: 151
+Added Recv: 151 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 152 with seq: 232
+Received 0 bytes of data with seq: 151, last ack sent: 152
+Received Duplicate Packet with seq: 151
+Sending ack: 152 with seq: 232
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 232 to send buffer
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 151, last ack sent: 152
+Received Duplicate Packet with seq: 151
+Sending ack: 152 with seq: 233
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 151, last ack sent: 152
+Received Duplicate Packet with seq: 151
+Sending ack: 152 with seq: 233
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 151, last ack sent: 152
+Received Duplicate Packet with seq: 151
+Sending ack: 152 with seq: 233
+Waiting with RTO for Seq:232 
+Received 0 bytes of data with seq: 151, last ack sent: 152
+Received Duplicate Packet with seq: 151
+Sending ack: 152 with seq: 233
+Waiting with RTO for Seq:232 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 247
+PASSIVE - SEND SYN_ACK Packet with seq: 160 and ack: 248 
+PASSIVE - RCVD Last Ack Packet has seq: 248 and ack: 161 
+Received 10 bytes of data with seq: 248, last ack sent: 248
+Added Recv: 248 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 248 to application 
+Sending ack: 258 with seq: 161
+Starting timer after empty window
+Added Seq: 161 to send buffer
+Sending packet with seq: 161 of size: 36
+Waiting with RTO for Seq:161 
+Added Seq: 177 to send buffer
+Sending packet with seq: 177 of size: 40
+Waiting with RTO for Seq:161 
+Ack:177 received - Prior Window Bottom:161 - Window Top: 197
+Removing Seq: 161 from sender's buffer
+Waiting with RTO for Seq:177 
+Ack:197 received - Prior Window Bottom:177 - Window Top: 197
+Removing Seq: 177 from sender's buffer
+Received 0 bytes of data with seq: 258, last ack sent: 258
+Added Recv: 258 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 259 with seq: 197
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 197
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 197 to send buffer
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 247
+PASSIVE - SEND SYN_ACK Packet with seq: 160 and ack: 248 
+PASSIVE - RCVD Last Ack Packet has seq: 248 and ack: 161 
+Received 10 bytes of data with seq: 248, last ack sent: 248
+Added Recv: 248 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 248 to application 
+Sending ack: 258 with seq: 161
+Starting timer after empty window
+Added Seq: 161 to send buffer
+Sending packet with seq: 161 of size: 36
+Waiting with RTO for Seq:161 
+Added Seq: 177 to send buffer
+Sending packet with seq: 177 of size: 40
+Waiting with RTO for Seq:161 
+Ack:177 received - Prior Window Bottom:161 - Window Top: 197
+Removing Seq: 161 from sender's buffer
+Waiting with RTO for Seq:177 
+Ack:197 received - Prior Window Bottom:177 - Window Top: 197
+Removing Seq: 177 from sender's buffer
+Received 0 bytes of data with seq: 258, last ack sent: 258
+Added Recv: 258 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 259 with seq: 197
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 197
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 197 to send buffer
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+Received 0 bytes of data with seq: 258, last ack sent: 259
+Received Duplicate Packet with seq: 258
+Sending ack: 259 with seq: 198
+Waiting with RTO for Seq:197 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 96
+PASSIVE - SEND SYN_ACK Packet with seq: 252 and ack: 97 
+PASSIVE - RCVD Last Ack Packet has seq: 97 and ack: 253 
+Received 10 bytes of data with seq: 97, last ack sent: 97
+Added Recv: 97 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 97 to application 
+Sending ack: 107 with seq: 253
+Starting timer after empty window
+Added Seq: 253 to send buffer
+Sending packet with seq: 253 of size: 36
+Waiting with RTO for Seq:253 
+Added Seq: 269 to send buffer
+Sending packet with seq: 269 of size: 40
+Waiting with RTO for Seq:253 
+Ack:269 received - Prior Window Bottom:253 - Window Top: 289
+Removing Seq: 253 from sender's buffer
+Waiting with RTO for Seq:269 
+Ack:289 received - Prior Window Bottom:269 - Window Top: 289
+Removing Seq: 269 from sender's buffer
+Received 0 bytes of data with seq: 107, last ack sent: 107
+Added Recv: 107 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 108 with seq: 289
+Received 0 bytes of data with seq: 107, last ack sent: 108
+Received Duplicate Packet with seq: 107
+Sending ack: 108 with seq: 289
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 289 to send buffer
+Waiting with RTO for Seq:289 
+Received 0 bytes of data with seq: 107, last ack sent: 108
+Received Duplicate Packet with seq: 107
+Sending ack: 108 with seq: 290
+Waiting with RTO for Seq:289 
+Received 0 bytes of data with seq: 107, last ack sent: 108
+Received Duplicate Packet with seq: 107
+Sending ack: 108 with seq: 290
+Waiting with RTO for Seq:289 
+Received 0 bytes of data with seq: 107, last ack sent: 108
+Received Duplicate Packet with seq: 107
+Sending ack: 108 with seq: 290
+Waiting with RTO for Seq:289 
+Received 0 bytes of data with seq: 107, last ack sent: 108
+Received Duplicate Packet with seq: 107
+Sending ack: 108 with seq: 290
+Waiting with RTO for Seq:289 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 74
+PASSIVE - SEND SYN_ACK Packet with seq: 88 and ack: 75 
+PASSIVE - RCVD Last Ack Packet has seq: 75 and ack: 89 
+Received 10 bytes of data with seq: 75, last ack sent: 75
+Added Recv: 75 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 75 to application 
+Sending ack: 85 with seq: 89
+Starting timer after empty window
+Added Seq: 89 to send buffer
+Sending packet with seq: 89 of size: 36
+Waiting with RTO for Seq:89 
+Added Seq: 105 to send buffer
+Sending packet with seq: 105 of size: 40
+Waiting with RTO for Seq:89 
+Ack:105 received - Prior Window Bottom:89 - Window Top: 125
+Removing Seq: 89 from sender's buffer
+Waiting with RTO for Seq:105 
+Ack:125 received - Prior Window Bottom:105 - Window Top: 125
+Removing Seq: 105 from sender's buffer
+Received 0 bytes of data with seq: 85, last ack sent: 85
+Added Recv: 85 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 86 with seq: 125
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 125
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 125 to send buffer
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 74
+PASSIVE - SEND SYN_ACK Packet with seq: 88 and ack: 75 
+PASSIVE - RCVD Last Ack Packet has seq: 75 and ack: 89 
+Received 10 bytes of data with seq: 75, last ack sent: 75
+Added Recv: 75 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 75 to application 
+Sending ack: 85 with seq: 89
+Starting timer after empty window
+Added Seq: 89 to send buffer
+Sending packet with seq: 89 of size: 36
+Waiting with RTO for Seq:89 
+Added Seq: 105 to send buffer
+Sending packet with seq: 105 of size: 40
+Waiting with RTO for Seq:89 
+Ack:105 received - Prior Window Bottom:89 - Window Top: 125
+Removing Seq: 89 from sender's buffer
+Waiting with RTO for Seq:105 
+Ack:125 received - Prior Window Bottom:105 - Window Top: 125
+Removing Seq: 105 from sender's buffer
+Received 0 bytes of data with seq: 85, last ack sent: 85
+Added Recv: 85 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 86 with seq: 125
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 125
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 125 to send buffer
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+Received 0 bytes of data with seq: 85, last ack sent: 86
+Received Duplicate Packet with seq: 85
+Sending ack: 86 with seq: 126
+Waiting with RTO for Seq:125 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 51
+PASSIVE - SEND SYN_ACK Packet with seq: 178 and ack: 52 
+PASSIVE - RCVD Last Ack Packet has seq: 52 and ack: 179 
+Received 10 bytes of data with seq: 52, last ack sent: 52
+Added Recv: 52 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 52 to application 
+Sending ack: 62 with seq: 179
+Starting timer after empty window
+Added Seq: 179 to send buffer
+Sending packet with seq: 179 of size: 36
+Waiting with RTO for Seq:179 
+Added Seq: 195 to send buffer
+Sending packet with seq: 195 of size: 40
+Waiting with RTO for Seq:179 
+Ack:195 received - Prior Window Bottom:179 - Window Top: 215
+Removing Seq: 179 from sender's buffer
+Waiting with RTO for Seq:195 
+Ack:215 received - Prior Window Bottom:195 - Window Top: 215
+Removing Seq: 195 from sender's buffer
+Received 0 bytes of data with seq: 62, last ack sent: 62
+Added Recv: 62 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 63 with seq: 215
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 215
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 215 to send buffer
+Waiting with RTO for Seq:215 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 216
+Waiting with RTO for Seq:215 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 216
+Waiting with RTO for Seq:215 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 216
+Waiting with RTO for Seq:215 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 30
+PASSIVE - SEND SYN_ACK Packet with seq: 15 and ack: 31 
+PASSIVE - RCVD Last Ack Packet has seq: 31 and ack: 16 
+Received 10 bytes of data with seq: 31, last ack sent: 31
+Added Recv: 31 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 31 to application 
+Sending ack: 41 with seq: 16
+Starting timer after empty window
+Added Seq: 16 to send buffer
+Sending packet with seq: 16 of size: 36
+Waiting with RTO for Seq:16 
+Added Seq: 32 to send buffer
+Sending packet with seq: 32 of size: 40
+Waiting with RTO for Seq:16 
+Ack:32 received - Prior Window Bottom:16 - Window Top: 52
+Removing Seq: 16 from sender's buffer
+Waiting with RTO for Seq:32 
+Ack:52 received - Prior Window Bottom:32 - Window Top: 52
+Removing Seq: 32 from sender's buffer
+Received 0 bytes of data with seq: 41, last ack sent: 41
+Added Recv: 41 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 42 with seq: 52
+Received 0 bytes of data with seq: 41, last ack sent: 42
+Received Duplicate Packet with seq: 41
+Sending ack: 42 with seq: 52
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 52 to send buffer
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 41, last ack sent: 42
+Received Duplicate Packet with seq: 41
+Sending ack: 42 with seq: 53
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 41, last ack sent: 42
+Received Duplicate Packet with seq: 41
+Sending ack: 42 with seq: 53
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 41, last ack sent: 42
+Received Duplicate Packet with seq: 41
+Sending ack: 42 with seq: 53
+Waiting with RTO for Seq:52 
+Received 0 bytes of data with seq: 41, last ack sent: 42
+Received Duplicate Packet with seq: 41
+Sending ack: 42 with seq: 53
+Waiting with RTO for Seq:52 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 7
+PASSIVE - SEND SYN_ACK Packet with seq: 234 and ack: 8 
+PASSIVE - RCVD Last Ack Packet has seq: 8 and ack: 235 
+Received 10 bytes of data with seq: 8, last ack sent: 8
+Added Recv: 8 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 8 to application 
+Sending ack: 18 with seq: 235
+Starting timer after empty window
+Added Seq: 235 to send buffer
+Sending packet with seq: 235 of size: 36
+Waiting with RTO for Seq:235 
+Added Seq: 251 to send buffer
+Sending packet with seq: 251 of size: 40
+Waiting with RTO for Seq:235 
+Ack:251 received - Prior Window Bottom:235 - Window Top: 271
+Removing Seq: 235 from sender's buffer
+Waiting with RTO for Seq:251 
+Ack:271 received - Prior Window Bottom:251 - Window Top: 271
+Removing Seq: 251 from sender's buffer
+Received 0 bytes of data with seq: 18, last ack sent: 18
+Added Recv: 18 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 19 with seq: 271
+Received 0 bytes of data with seq: 18, last ack sent: 19
+Received Duplicate Packet with seq: 18
+Sending ack: 19 with seq: 271
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 271 to send buffer
+Waiting with RTO for Seq:271 
+Received 0 bytes of data with seq: 18, last ack sent: 19
+Received Duplicate Packet with seq: 18
+Sending ack: 19 with seq: 272
+Waiting with RTO for Seq:271 
+Received 0 bytes of data with seq: 18, last ack sent: 19
+Received Duplicate Packet with seq: 18
+Sending ack: 19 with seq: 272
+Waiting with RTO for Seq:271 
+Received 0 bytes of data with seq: 18, last ack sent: 19
+Received Duplicate Packet with seq: 18
+Sending ack: 19 with seq: 272
+Waiting with RTO for Seq:271 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 242
+PASSIVE - SEND SYN_ACK Packet with seq: 71 and ack: 243 
+PASSIVE - RCVD Last Ack Packet has seq: 243 and ack: 72 
+Received 10 bytes of data with seq: 243, last ack sent: 243
+Added Recv: 243 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 243 to application 
+Sending ack: 253 with seq: 72
+Starting timer after empty window
+Added Seq: 72 to send buffer
+Sending packet with seq: 72 of size: 36
+Waiting with RTO for Seq:72 
+Added Seq: 88 to send buffer
+Sending packet with seq: 88 of size: 40
+Waiting with RTO for Seq:72 
+Ack:88 received - Prior Window Bottom:72 - Window Top: 108
+Removing Seq: 72 from sender's buffer
+Waiting with RTO for Seq:88 
+Ack:108 received - Prior Window Bottom:88 - Window Top: 108
+Removing Seq: 88 from sender's buffer
+Received 0 bytes of data with seq: 253, last ack sent: 253
+Added Recv: 253 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 254 with seq: 108
+Received 0 bytes of data with seq: 253, last ack sent: 254
+Received Duplicate Packet with seq: 253
+Sending ack: 254 with seq: 108
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 108 to send buffer
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 253, last ack sent: 254
+Received Duplicate Packet with seq: 253
+Sending ack: 254 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 253, last ack sent: 254
+Received Duplicate Packet with seq: 253
+Sending ack: 254 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 253, last ack sent: 254
+Received Duplicate Packet with seq: 253
+Sending ack: 254 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 253, last ack sent: 254
+Received Duplicate Packet with seq: 253
+Sending ack: 254 with seq: 109
+Waiting with RTO for Seq:108 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 219
+PASSIVE - SEND SYN_ACK Packet with seq: 71 and ack: 220 
+PASSIVE - RCVD Last Ack Packet has seq: 220 and ack: 72 
+Received 10 bytes of data with seq: 220, last ack sent: 220
+Added Recv: 220 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 220 to application 
+Sending ack: 230 with seq: 72
+Starting timer after empty window
+Added Seq: 72 to send buffer
+Sending packet with seq: 72 of size: 36
+Waiting with RTO for Seq:72 
+Added Seq: 88 to send buffer
+Sending packet with seq: 88 of size: 40
+Waiting with RTO for Seq:72 
+Ack:88 received - Prior Window Bottom:72 - Window Top: 108
+Removing Seq: 72 from sender's buffer
+Waiting with RTO for Seq:88 
+Ack:108 received - Prior Window Bottom:88 - Window Top: 108
+Removing Seq: 88 from sender's buffer
+Received 0 bytes of data with seq: 230, last ack sent: 230
+Added Recv: 230 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 231 with seq: 108
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 108
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 108 to send buffer
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 109
+Waiting with RTO for Seq:108 
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 109
+Waiting with RTO for Seq:108 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 219
+PASSIVE - SEND SYN_ACK Packet with seq: 163 and ack: 220 
+PASSIVE - RCVD Last Ack Packet has seq: 220 and ack: 164 
+Received 10 bytes of data with seq: 220, last ack sent: 220
+Added Recv: 220 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 220 to application 
+Sending ack: 230 with seq: 164
+Starting timer after empty window
+Added Seq: 164 to send buffer
+Sending packet with seq: 164 of size: 36
+Waiting with RTO for Seq:164 
+Added Seq: 180 to send buffer
+Sending packet with seq: 180 of size: 40
+Waiting with RTO for Seq:164 
+Ack:180 received - Prior Window Bottom:164 - Window Top: 200
+Removing Seq: 164 from sender's buffer
+Waiting with RTO for Seq:180 
+Ack:200 received - Prior Window Bottom:180 - Window Top: 200
+Removing Seq: 180 from sender's buffer
+Received 0 bytes of data with seq: 230, last ack sent: 230
+Added Recv: 230 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 231 with seq: 200
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 200
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 200 to send buffer
+Waiting with RTO for Seq:200 
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 201
+Waiting with RTO for Seq:200 
+Received 0 bytes of data with seq: 230, last ack sent: 231
+Received Duplicate Packet with seq: 230
+Sending ack: 231 with seq: 201
+Waiting with RTO for Seq:200 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 196
+PASSIVE - SEND SYN_ACK Packet with seq: 254 and ack: 197 
+PASSIVE - RCVD Last Ack Packet has seq: 197 and ack: 255 
+Received 10 bytes of data with seq: 197, last ack sent: 197
+Added Recv: 197 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 197 to application 
+Sending ack: 207 with seq: 255
+Starting timer after empty window
+Added Seq: 255 to send buffer
+Sending packet with seq: 255 of size: 36
+Waiting with RTO for Seq:255 
+Added Seq: 271 to send buffer
+Sending packet with seq: 271 of size: 40
+Waiting with RTO for Seq:255 
+Ack:271 received - Prior Window Bottom:255 - Window Top: 291
+Removing Seq: 255 from sender's buffer
+Waiting with RTO for Seq:271 
+Ack:291 received - Prior Window Bottom:271 - Window Top: 291
+Removing Seq: 271 from sender's buffer
+Received 0 bytes of data with seq: 207, last ack sent: 207
+Added Recv: 207 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 208 with seq: 291
+Received 0 bytes of data with seq: 207, last ack sent: 208
+Received Duplicate Packet with seq: 207
+Sending ack: 208 with seq: 291
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 291 to send buffer
+Waiting with RTO for Seq:291 
+Received 0 bytes of data with seq: 207, last ack sent: 208
+Received Duplicate Packet with seq: 207
+Sending ack: 208 with seq: 292
+Waiting with RTO for Seq:291 
+Received 0 bytes of data with seq: 207, last ack sent: 208
+Received Duplicate Packet with seq: 207
+Sending ack: 208 with seq: 292
+Waiting with RTO for Seq:291 
+Received 0 bytes of data with seq: 207, last ack sent: 208
+Received Duplicate Packet with seq: 207
+Sending ack: 208 with seq: 292
+Waiting with RTO for Seq:291 
+Received 0 bytes of data with seq: 207, last ack sent: 208
+Received Duplicate Packet with seq: 207
+Sending ack: 208 with seq: 292
+Waiting with RTO for Seq:291 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 46
+PASSIVE - SEND SYN_ACK Packet with seq: 217 and ack: 47 
+PASSIVE - RCVD Last Ack Packet has seq: 47 and ack: 218 
+Received 10 bytes of data with seq: 47, last ack sent: 47
+Added Recv: 47 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 47 to application 
+Sending ack: 57 with seq: 218
+Starting timer after empty window
+Added Seq: 218 to send buffer
+Sending packet with seq: 218 of size: 36
+Waiting with RTO for Seq:218 
+Added Seq: 234 to send buffer
+Sending packet with seq: 234 of size: 40
+Waiting with RTO for Seq:218 
+Ack:234 received - Prior Window Bottom:218 - Window Top: 254
+Removing Seq: 218 from sender's buffer
+Waiting with RTO for Seq:234 
+Ack:254 received - Prior Window Bottom:234 - Window Top: 254
+Removing Seq: 234 from sender's buffer
+Received 0 bytes of data with seq: 57, last ack sent: 57
+Added Recv: 57 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 58 with seq: 254
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 254
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 254 to send buffer
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 46
+PASSIVE - SEND SYN_ACK Packet with seq: 217 and ack: 47 
+PASSIVE - RCVD Last Ack Packet has seq: 47 and ack: 218 
+Received 10 bytes of data with seq: 47, last ack sent: 47
+Added Recv: 47 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 47 to application 
+Sending ack: 57 with seq: 218
+Starting timer after empty window
+Added Seq: 218 to send buffer
+Sending packet with seq: 218 of size: 36
+Waiting with RTO for Seq:218 
+Added Seq: 234 to send buffer
+Sending packet with seq: 234 of size: 40
+Waiting with RTO for Seq:218 
+Ack:234 received - Prior Window Bottom:218 - Window Top: 254
+Removing Seq: 218 from sender's buffer
+Waiting with RTO for Seq:234 
+Ack:254 received - Prior Window Bottom:234 - Window Top: 254
+Removing Seq: 234 from sender's buffer
+Received 0 bytes of data with seq: 57, last ack sent: 57
+Added Recv: 57 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 58 with seq: 254
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 254
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 254 to send buffer
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+Received 0 bytes of data with seq: 57, last ack sent: 58
+Received Duplicate Packet with seq: 57
+Sending ack: 58 with seq: 255
+Waiting with RTO for Seq:254 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 151
+PASSIVE - SEND SYN_ACK Packet with seq: 181 and ack: 152 
+PASSIVE - RCVD Last Ack Packet has seq: 152 and ack: 182 
+Received 10 bytes of data with seq: 152, last ack sent: 152
+Added Recv: 152 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 152 to application 
+Sending ack: 162 with seq: 182
+Starting timer after empty window
+Added Seq: 182 to send buffer
+Sending packet with seq: 182 of size: 36
+Waiting with RTO for Seq:182 
+Added Seq: 198 to send buffer
+Sending packet with seq: 198 of size: 40
+Waiting with RTO for Seq:182 
+Ack:198 received - Prior Window Bottom:182 - Window Top: 218
+Removing Seq: 182 from sender's buffer
+Waiting with RTO for Seq:198 
+Ack:218 received - Prior Window Bottom:198 - Window Top: 218
+Removing Seq: 198 from sender's buffer
+Received 0 bytes of data with seq: 162, last ack sent: 162
+Added Recv: 162 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 163 with seq: 218
+Received 0 bytes of data with seq: 162, last ack sent: 163
+Received Duplicate Packet with seq: 162
+Sending ack: 163 with seq: 218
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 218 to send buffer
+Waiting with RTO for Seq:218 
+Received 0 bytes of data with seq: 162, last ack sent: 163
+Received Duplicate Packet with seq: 162
+Sending ack: 163 with seq: 219
+Waiting with RTO for Seq:218 
+Received 0 bytes of data with seq: 162, last ack sent: 163
+Received Duplicate Packet with seq: 162
+Sending ack: 163 with seq: 219
+Waiting with RTO for Seq:218 
+Received 0 bytes of data with seq: 162, last ack sent: 163
+Received Duplicate Packet with seq: 162
+Sending ack: 163 with seq: 219
+Waiting with RTO for Seq:218 
+Received 0 bytes of data with seq: 162, last ack sent: 163
+Received Duplicate Packet with seq: 162
+Sending ack: 163 with seq: 219
+Waiting with RTO for Seq:218 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 129
+PASSIVE - SEND SYN_ACK Packet with seq: 145 and ack: 130 
+PASSIVE - RCVD Last Ack Packet has seq: 130 and ack: 146 
+Received 10 bytes of data with seq: 130, last ack sent: 130
+Added Recv: 130 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 130 to application 
+Sending ack: 140 with seq: 146
+Starting timer after empty window
+Added Seq: 146 to send buffer
+Sending packet with seq: 146 of size: 36
+Waiting with RTO for Seq:146 
+Added Seq: 162 to send buffer
+Sending packet with seq: 162 of size: 40
+Waiting with RTO for Seq:146 
+Ack:162 received - Prior Window Bottom:146 - Window Top: 182
+Removing Seq: 146 from sender's buffer
+Waiting with RTO for Seq:162 
+Ack:182 received - Prior Window Bottom:162 - Window Top: 182
+Removing Seq: 162 from sender's buffer
+Received 0 bytes of data with seq: 140, last ack sent: 140
+Added Recv: 140 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 141 with seq: 182
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 182
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 182 to send buffer
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 129
+PASSIVE - SEND SYN_ACK Packet with seq: 145 and ack: 130 
+PASSIVE - RCVD Last Ack Packet has seq: 130 and ack: 146 
+Received 10 bytes of data with seq: 130, last ack sent: 130
+Added Recv: 130 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 130 to application 
+Sending ack: 140 with seq: 146
+Starting timer after empty window
+Added Seq: 146 to send buffer
+Sending packet with seq: 146 of size: 36
+Waiting with RTO for Seq:146 
+Added Seq: 162 to send buffer
+Sending packet with seq: 162 of size: 40
+Waiting with RTO for Seq:146 
+Ack:162 received - Prior Window Bottom:146 - Window Top: 182
+Removing Seq: 146 from sender's buffer
+Waiting with RTO for Seq:162 
+Ack:182 received - Prior Window Bottom:162 - Window Top: 182
+Removing Seq: 162 from sender's buffer
+Received 0 bytes of data with seq: 140, last ack sent: 140
+Added Recv: 140 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 141 with seq: 182
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 182
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 182 to send buffer
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+Received 0 bytes of data with seq: 140, last ack sent: 141
+Received Duplicate Packet with seq: 140
+Sending ack: 141 with seq: 183
+Waiting with RTO for Seq:182 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 235
+PASSIVE - SEND SYN_ACK Packet with seq: 108 and ack: 236 
+PASSIVE - RCVD Last Ack Packet has seq: 236 and ack: 109 
+Received 10 bytes of data with seq: 236, last ack sent: 236
+Added Recv: 236 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 236 to application 
+Sending ack: 246 with seq: 109
+Starting timer after empty window
+Added Seq: 109 to send buffer
+Sending packet with seq: 109 of size: 36
+Waiting with RTO for Seq:109 
+Added Seq: 125 to send buffer
+Sending packet with seq: 125 of size: 40
+Waiting with RTO for Seq:109 
+Ack:125 received - Prior Window Bottom:109 - Window Top: 145
+Removing Seq: 109 from sender's buffer
+Waiting with RTO for Seq:125 
+Ack:145 received - Prior Window Bottom:125 - Window Top: 145
+Removing Seq: 125 from sender's buffer
+Received 0 bytes of data with seq: 246, last ack sent: 246
+Added Recv: 246 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 247 with seq: 145
+Received 0 bytes of data with seq: 246, last ack sent: 247
+Received Duplicate Packet with seq: 246
+Sending ack: 247 with seq: 145
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 145 to send buffer
+Waiting with RTO for Seq:145 
+Received 0 bytes of data with seq: 246, last ack sent: 247
+Received Duplicate Packet with seq: 246
+Sending ack: 247 with seq: 146
+Waiting with RTO for Seq:145 
+Received 0 bytes of data with seq: 246, last ack sent: 247
+Received Duplicate Packet with seq: 246
+Sending ack: 247 with seq: 146
+Waiting with RTO for Seq:145 
+Received 0 bytes of data with seq: 246, last ack sent: 247
+Received Duplicate Packet with seq: 246
+Sending ack: 247 with seq: 146
+Waiting with RTO for Seq:145 
+Received 0 bytes of data with seq: 246, last ack sent: 247
+Received Duplicate Packet with seq: 246
+Sending ack: 247 with seq: 146
+Waiting with RTO for Seq:145 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 85
+PASSIVE - SEND SYN_ACK Packet with seq: 73 and ack: 86 
+PASSIVE - RCVD Last Ack Packet has seq: 86 and ack: 74 
+Received 10 bytes of data with seq: 86, last ack sent: 86
+Added Recv: 86 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 86 to application 
+Sending ack: 96 with seq: 74
+Starting timer after empty window
+Added Seq: 74 to send buffer
+Sending packet with seq: 74 of size: 36
+Waiting with RTO for Seq:74 
+Added Seq: 90 to send buffer
+Sending packet with seq: 90 of size: 40
+Waiting with RTO for Seq:74 
+Ack:90 received - Prior Window Bottom:74 - Window Top: 110
+Removing Seq: 74 from sender's buffer
+Waiting with RTO for Seq:90 
+Ack:110 received - Prior Window Bottom:90 - Window Top: 110
+Removing Seq: 90 from sender's buffer
+Received 0 bytes of data with seq: 96, last ack sent: 96
+Added Recv: 96 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 97 with seq: 110
+Received 0 bytes of data with seq: 96, last ack sent: 97
+Received Duplicate Packet with seq: 96
+Sending ack: 97 with seq: 110
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 110 to send buffer
+Waiting with RTO for Seq:110 
+Received 0 bytes of data with seq: 96, last ack sent: 97
+Received Duplicate Packet with seq: 96
+Sending ack: 97 with seq: 111
+Waiting with RTO for Seq:110 
+Received 0 bytes of data with seq: 96, last ack sent: 97
+Received Duplicate Packet with seq: 96
+Sending ack: 97 with seq: 111
+Waiting with RTO for Seq:110 
+Received 0 bytes of data with seq: 96, last ack sent: 97
+Received Duplicate Packet with seq: 96
+Sending ack: 97 with seq: 111
+Waiting with RTO for Seq:110 
+Received 0 bytes of data with seq: 96, last ack sent: 97
+Received Duplicate Packet with seq: 96
+Sending ack: 97 with seq: 111
+Waiting with RTO for Seq:110 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 62
+PASSIVE - SEND SYN_ACK Packet with seq: 36 and ack: 63 
+PASSIVE - RCVD Last Ack Packet has seq: 63 and ack: 37 
+Received 10 bytes of data with seq: 63, last ack sent: 63
+Added Recv: 63 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 63 to application 
+Sending ack: 73 with seq: 37
+Starting timer after empty window
+Added Seq: 37 to send buffer
+Sending packet with seq: 37 of size: 36
+Waiting with RTO for Seq:37 
+Added Seq: 53 to send buffer
+Sending packet with seq: 53 of size: 40
+Waiting with RTO for Seq:37 
+Ack:53 received - Prior Window Bottom:37 - Window Top: 73
+Removing Seq: 37 from sender's buffer
+Waiting with RTO for Seq:53 
+Ack:73 received - Prior Window Bottom:53 - Window Top: 73
+Removing Seq: 53 from sender's buffer
+Received 0 bytes of data with seq: 73, last ack sent: 73
+Added Recv: 73 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 74 with seq: 73
+Received 0 bytes of data with seq: 73, last ack sent: 74
+Received Duplicate Packet with seq: 73
+Sending ack: 74 with seq: 73
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 73 to send buffer
+Waiting with RTO for Seq:73 
+Received 0 bytes of data with seq: 73, last ack sent: 74
+Received Duplicate Packet with seq: 73
+Sending ack: 74 with seq: 74
+Waiting with RTO for Seq:73 
+Received 0 bytes of data with seq: 73, last ack sent: 74
+Received Duplicate Packet with seq: 73
+Sending ack: 74 with seq: 74
+Waiting with RTO for Seq:73 
+Received 0 bytes of data with seq: 73, last ack sent: 74
+Received Duplicate Packet with seq: 73
+Sending ack: 74 with seq: 74
+Waiting with RTO for Seq:73 
+Received 0 bytes of data with seq: 73, last ack sent: 74
+Received Duplicate Packet with seq: 73
+Sending ack: 74 with seq: 74
+Waiting with RTO for Seq:73 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 41
+PASSIVE - SEND SYN_ACK Packet with seq: 0 and ack: 42 
+PASSIVE - RCVD Last Ack Packet has seq: 42 and ack: 1 
+Received 10 bytes of data with seq: 42, last ack sent: 42
+Added Recv: 42 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 42 to application 
+Sending ack: 52 with seq: 1
+Starting timer after empty window
+Added Seq: 1 to send buffer
+Sending packet with seq: 1 of size: 36
+Waiting with RTO for Seq:1 
+Added Seq: 17 to send buffer
+Sending packet with seq: 17 of size: 40
+Waiting with RTO for Seq:1 
+Ack:17 received - Prior Window Bottom:1 - Window Top: 37
+Removing Seq: 1 from sender's buffer
+Waiting with RTO for Seq:17 
+Ack:37 received - Prior Window Bottom:17 - Window Top: 37
+Removing Seq: 17 from sender's buffer
+Received 0 bytes of data with seq: 52, last ack sent: 52
+Added Recv: 52 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 53 with seq: 37
+Received 0 bytes of data with seq: 52, last ack sent: 53
+Received Duplicate Packet with seq: 52
+Sending ack: 53 with seq: 37
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 37 to send buffer
+Waiting with RTO for Seq:37 
+Received 0 bytes of data with seq: 52, last ack sent: 53
+Received Duplicate Packet with seq: 52
+Sending ack: 53 with seq: 38
+Waiting with RTO for Seq:37 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 41
+PASSIVE - SEND SYN_ACK Packet with seq: 0 and ack: 42 
+PASSIVE - RCVD Last Ack Packet has seq: 42 and ack: 1 
+Received 10 bytes of data with seq: 42, last ack sent: 42
+Added Recv: 42 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 42 to application 
+Sending ack: 52 with seq: 1
+Starting timer after empty window
+Added Seq: 1 to send buffer
+Sending packet with seq: 1 of size: 36
+Waiting with RTO for Seq:1 
+Added Seq: 17 to send buffer
+Sending packet with seq: 17 of size: 40
+Waiting with RTO for Seq:1 
+Ack:17 received - Prior Window Bottom:1 - Window Top: 37
+Removing Seq: 1 from sender's buffer
+Waiting with RTO for Seq:17 
+Ack:37 received - Prior Window Bottom:17 - Window Top: 37
+Removing Seq: 17 from sender's buffer
+Received 0 bytes of data with seq: 52, last ack sent: 52
+Added Recv: 52 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 53 with seq: 37
+Received 0 bytes of data with seq: 52, last ack sent: 53
+Received Duplicate Packet with seq: 52
+Sending ack: 53 with seq: 37
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 37 to send buffer
+Waiting with RTO for Seq:37 
+Received 0 bytes of data with seq: 52, last ack sent: 53
+Received Duplicate Packet with seq: 52
+Sending ack: 53 with seq: 38
+Waiting with RTO for Seq:37 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 18
+PASSIVE - SEND SYN_ACK Packet with seq: 92 and ack: 19 
+PASSIVE - RCVD Last Ack Packet has seq: 19 and ack: 93 
+Received 10 bytes of data with seq: 19, last ack sent: 19
+Added Recv: 19 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 19 to application 
+Sending ack: 29 with seq: 93
+Starting timer after empty window
+Added Seq: 93 to send buffer
+Sending packet with seq: 93 of size: 36
+Waiting with RTO for Seq:93 
+Added Seq: 109 to send buffer
+Sending packet with seq: 109 of size: 40
+Waiting with RTO for Seq:93 
+Ack:109 received - Prior Window Bottom:93 - Window Top: 129
+Removing Seq: 93 from sender's buffer
+Waiting with RTO for Seq:109 
+Ack:129 received - Prior Window Bottom:109 - Window Top: 129
+Removing Seq: 109 from sender's buffer
+Received 0 bytes of data with seq: 29, last ack sent: 29
+Added Recv: 29 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 30 with seq: 129
+Received 0 bytes of data with seq: 29, last ack sent: 30
+Received Duplicate Packet with seq: 29
+Sending ack: 30 with seq: 129
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 129 to send buffer
+Waiting with RTO for Seq:129 
+Received 0 bytes of data with seq: 29, last ack sent: 30
+Received Duplicate Packet with seq: 29
+Sending ack: 30 with seq: 130
+Waiting with RTO for Seq:129 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 124
+PASSIVE - SEND SYN_ACK Packet with seq: 56 and ack: 125 
+PASSIVE - RCVD Last Ack Packet has seq: 125 and ack: 57 
+Received 10 bytes of data with seq: 125, last ack sent: 125
+Added Recv: 125 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 125 to application 
+Sending ack: 135 with seq: 57
+Starting timer after empty window
+Added Seq: 57 to send buffer
+Sending packet with seq: 57 of size: 36
+Waiting with RTO for Seq:57 
+Added Seq: 73 to send buffer
+Sending packet with seq: 73 of size: 40
+Waiting with RTO for Seq:57 
+Ack:73 received - Prior Window Bottom:57 - Window Top: 93
+Removing Seq: 57 from sender's buffer
+Waiting with RTO for Seq:73 
+Ack:93 received - Prior Window Bottom:73 - Window Top: 93
+Removing Seq: 73 from sender's buffer
+Received 0 bytes of data with seq: 135, last ack sent: 135
+Added Recv: 135 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 136 with seq: 93
+Received 0 bytes of data with seq: 135, last ack sent: 136
+Received Duplicate Packet with seq: 135
+Sending ack: 136 with seq: 93
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 93 to send buffer
+Waiting with RTO for Seq:93 
+Received 0 bytes of data with seq: 135, last ack sent: 136
+Received Duplicate Packet with seq: 135
+Sending ack: 136 with seq: 94
+Waiting with RTO for Seq:93 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 124
+PASSIVE - SEND SYN_ACK Packet with seq: 56 and ack: 125 
+PASSIVE - RCVD Last Ack Packet has seq: 125 and ack: 57 
+Received 10 bytes of data with seq: 125, last ack sent: 125
+Added Recv: 125 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 125 to application 
+Sending ack: 135 with seq: 57
+Starting timer after empty window
+Added Seq: 57 to send buffer
+Sending packet with seq: 57 of size: 36
+Waiting with RTO for Seq:57 
+Added Seq: 73 to send buffer
+Sending packet with seq: 73 of size: 40
+Waiting with RTO for Seq:57 
+Ack:73 received - Prior Window Bottom:57 - Window Top: 93
+Removing Seq: 57 from sender's buffer
+Waiting with RTO for Seq:73 
+Ack:93 received - Prior Window Bottom:73 - Window Top: 93
+Removing Seq: 73 from sender's buffer
+Received 0 bytes of data with seq: 135, last ack sent: 135
+Added Recv: 135 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 136 with seq: 93
+Received 0 bytes of data with seq: 135, last ack sent: 136
+Received Duplicate Packet with seq: 135
+Sending ack: 136 with seq: 93
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 93 to send buffer
+Waiting with RTO for Seq:93 
+Received 0 bytes of data with seq: 135, last ack sent: 136
+Received Duplicate Packet with seq: 135
+Sending ack: 136 with seq: 94
+Waiting with RTO for Seq:93 
+Received 0 bytes of data with seq: 135, last ack sent: 136
+Received Duplicate Packet with seq: 135
+Sending ack: 136 with seq: 94
+Waiting with RTO for Seq:93 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 230
+PASSIVE - SEND SYN_ACK Packet with seq: 147 and ack: 231 
+PASSIVE - RCVD Last Ack Packet has seq: 231 and ack: 148 
+Received 10 bytes of data with seq: 231, last ack sent: 231
+Added Recv: 231 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 231 to application 
+Sending ack: 241 with seq: 148
+Starting timer after empty window
+Added Seq: 148 to send buffer
+Sending packet with seq: 148 of size: 36
+Waiting with RTO for Seq:148 
+Added Seq: 164 to send buffer
+Sending packet with seq: 164 of size: 40
+Waiting with RTO for Seq:148 
+Ack:164 received - Prior Window Bottom:148 - Window Top: 184
+Removing Seq: 148 from sender's buffer
+Waiting with RTO for Seq:164 
+Ack:184 received - Prior Window Bottom:164 - Window Top: 184
+Removing Seq: 164 from sender's buffer
+Received 0 bytes of data with seq: 241, last ack sent: 241
+Added Recv: 241 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 242 with seq: 184
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 184
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 184 to send buffer
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 230
+PASSIVE - SEND SYN_ACK Packet with seq: 147 and ack: 231 
+PASSIVE - RCVD Last Ack Packet has seq: 231 and ack: 148 
+Received 10 bytes of data with seq: 231, last ack sent: 231
+Added Recv: 231 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 231 to application 
+Sending ack: 241 with seq: 148
+Starting timer after empty window
+Added Seq: 148 to send buffer
+Sending packet with seq: 148 of size: 36
+Waiting with RTO for Seq:148 
+Added Seq: 164 to send buffer
+Sending packet with seq: 164 of size: 40
+Waiting with RTO for Seq:148 
+Ack:164 received - Prior Window Bottom:148 - Window Top: 184
+Removing Seq: 148 from sender's buffer
+Waiting with RTO for Seq:164 
+Ack:184 received - Prior Window Bottom:164 - Window Top: 184
+Removing Seq: 164 from sender's buffer
+Received 0 bytes of data with seq: 241, last ack sent: 241
+Added Recv: 241 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 242 with seq: 184
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 184
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 184 to send buffer
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+Received 0 bytes of data with seq: 241, last ack sent: 242
+Received Duplicate Packet with seq: 241
+Sending ack: 242 with seq: 185
+Waiting with RTO for Seq:184 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 208
+PASSIVE - SEND SYN_ACK Packet with seq: 112 and ack: 209 
+PASSIVE - RCVD Last Ack Packet has seq: 209 and ack: 113 
+Received 10 bytes of data with seq: 209, last ack sent: 209
+Added Recv: 209 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 209 to application 
+Sending ack: 219 with seq: 113
+Starting timer after empty window
+Added Seq: 113 to send buffer
+Sending packet with seq: 113 of size: 36
+Waiting with RTO for Seq:113 
+Added Seq: 129 to send buffer
+Sending packet with seq: 129 of size: 40
+Waiting with RTO for Seq:113 
+Ack:129 received - Prior Window Bottom:113 - Window Top: 149
+Removing Seq: 113 from sender's buffer
+Waiting with RTO for Seq:129 
+Ack:149 received - Prior Window Bottom:129 - Window Top: 149
+Removing Seq: 129 from sender's buffer
+Received 0 bytes of data with seq: 219, last ack sent: 219
+Added Recv: 219 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 220 with seq: 149
+Received 0 bytes of data with seq: 219, last ack sent: 220
+Received Duplicate Packet with seq: 219
+Sending ack: 220 with seq: 149
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 149 to send buffer
+Waiting with RTO for Seq:149 
+Received 0 bytes of data with seq: 219, last ack sent: 220
+Received Duplicate Packet with seq: 219
+Sending ack: 220 with seq: 150
+Waiting with RTO for Seq:149 
+Received 0 bytes of data with seq: 219, last ack sent: 220
+Received Duplicate Packet with seq: 219
+Sending ack: 220 with seq: 150
+Waiting with RTO for Seq:149 
+Received 0 bytes of data with seq: 219, last ack sent: 220
+Received Duplicate Packet with seq: 219
+Sending ack: 220 with seq: 150
+Waiting with RTO for Seq:149 
+Received 0 bytes of data with seq: 219, last ack sent: 220
+Received Duplicate Packet with seq: 219
+Sending ack: 220 with seq: 150
+Waiting with RTO for Seq:149 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 58
+PASSIVE - SEND SYN_ACK Packet with seq: 75 and ack: 59 
+PASSIVE - RCVD Last Ack Packet has seq: 59 and ack: 76 
+Received 10 bytes of data with seq: 59, last ack sent: 59
+Added Recv: 59 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 59 to application 
+Sending ack: 69 with seq: 76
+Starting timer after empty window
+Added Seq: 76 to send buffer
+Sending packet with seq: 76 of size: 36
+Waiting with RTO for Seq:76 
+Added Seq: 92 to send buffer
+Sending packet with seq: 92 of size: 40
+Waiting with RTO for Seq:76 
+Ack:92 received - Prior Window Bottom:76 - Window Top: 112
+Removing Seq: 76 from sender's buffer
+Waiting with RTO for Seq:92 
+Ack:112 received - Prior Window Bottom:92 - Window Top: 112
+Removing Seq: 92 from sender's buffer
+Received 0 bytes of data with seq: 69, last ack sent: 69
+Added Recv: 69 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 70 with seq: 112
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 112
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 112 to send buffer
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 58
+PASSIVE - SEND SYN_ACK Packet with seq: 75 and ack: 59 
+PASSIVE - RCVD Last Ack Packet has seq: 59 and ack: 76 
+Received 10 bytes of data with seq: 59, last ack sent: 59
+Added Recv: 59 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 59 to application 
+Sending ack: 69 with seq: 76
+Starting timer after empty window
+Added Seq: 76 to send buffer
+Sending packet with seq: 76 of size: 36
+Waiting with RTO for Seq:76 
+Added Seq: 92 to send buffer
+Sending packet with seq: 92 of size: 40
+Waiting with RTO for Seq:76 
+Ack:92 received - Prior Window Bottom:76 - Window Top: 112
+Removing Seq: 76 from sender's buffer
+Waiting with RTO for Seq:92 
+Ack:112 received - Prior Window Bottom:92 - Window Top: 112
+Removing Seq: 92 from sender's buffer
+Received 0 bytes of data with seq: 69, last ack sent: 69
+Added Recv: 69 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 70 with seq: 112
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 112
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 112 to send buffer
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+Received 0 bytes of data with seq: 69, last ack sent: 70
+Received Duplicate Packet with seq: 69
+Sending ack: 70 with seq: 113
+Waiting with RTO for Seq:112 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 35
+PASSIVE - SEND SYN_ACK Packet with seq: 38 and ack: 36 
+PASSIVE - RCVD Last Ack Packet has seq: 36 and ack: 39 
+Received 10 bytes of data with seq: 36, last ack sent: 36
+Added Recv: 36 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 36 to application 
+Sending ack: 46 with seq: 39
+Starting timer after empty window
+Added Seq: 39 to send buffer
+Sending packet with seq: 39 of size: 36
+Waiting with RTO for Seq:39 
+Added Seq: 55 to send buffer
+Sending packet with seq: 55 of size: 40
+Waiting with RTO for Seq:39 
+Ack:55 received - Prior Window Bottom:39 - Window Top: 75
+Removing Seq: 39 from sender's buffer
+Waiting with RTO for Seq:55 
+Ack:75 received - Prior Window Bottom:55 - Window Top: 75
+Removing Seq: 55 from sender's buffer
+Received 0 bytes of data with seq: 46, last ack sent: 46
+Added Recv: 46 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 47 with seq: 75
+Received 0 bytes of data with seq: 46, last ack sent: 47
+Received Duplicate Packet with seq: 46
+Sending ack: 47 with seq: 75
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 75 to send buffer
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 46, last ack sent: 47
+Received Duplicate Packet with seq: 46
+Sending ack: 47 with seq: 76
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 46, last ack sent: 47
+Received Duplicate Packet with seq: 46
+Sending ack: 47 with seq: 76
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 46, last ack sent: 47
+Received Duplicate Packet with seq: 46
+Sending ack: 47 with seq: 76
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 46, last ack sent: 47
+Received Duplicate Packet with seq: 46
+Sending ack: 47 with seq: 76
+Waiting with RTO for Seq:75 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 13
+PASSIVE - SEND SYN_ACK Packet with seq: 38 and ack: 14 
+PASSIVE - RCVD Last Ack Packet has seq: 14 and ack: 39 
+Received 10 bytes of data with seq: 14, last ack sent: 14
+Added Recv: 14 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 14 to application 
+Sending ack: 24 with seq: 39
+Starting timer after empty window
+Added Seq: 39 to send buffer
+Sending packet with seq: 39 of size: 36
+Waiting with RTO for Seq:39 
+Added Seq: 55 to send buffer
+Sending packet with seq: 55 of size: 40
+Waiting with RTO for Seq:39 
+Ack:55 received - Prior Window Bottom:39 - Window Top: 75
+Removing Seq: 39 from sender's buffer
+Waiting with RTO for Seq:55 
+Ack:75 received - Prior Window Bottom:55 - Window Top: 75
+Removing Seq: 55 from sender's buffer
+Received 0 bytes of data with seq: 24, last ack sent: 24
+Added Recv: 24 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 25 with seq: 75
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 75
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 75 to send buffer
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 76
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 76
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 76
+Waiting with RTO for Seq:75 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 76
+Waiting with RTO for Seq:75 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 13
+PASSIVE - SEND SYN_ACK Packet with seq: 2 and ack: 14 
+PASSIVE - RCVD Last Ack Packet has seq: 14 and ack: 3 
+Received 10 bytes of data with seq: 14, last ack sent: 14
+Added Recv: 14 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 14 to application 
+Sending ack: 24 with seq: 3
+Starting timer after empty window
+Added Seq: 3 to send buffer
+Sending packet with seq: 3 of size: 36
+Waiting with RTO for Seq:3 
+Added Seq: 19 to send buffer
+Sending packet with seq: 19 of size: 40
+Waiting with RTO for Seq:3 
+Ack:19 received - Prior Window Bottom:3 - Window Top: 39
+Removing Seq: 3 from sender's buffer
+Waiting with RTO for Seq:19 
+Ack:39 received - Prior Window Bottom:19 - Window Top: 39
+Removing Seq: 19 from sender's buffer
+Received 0 bytes of data with seq: 24, last ack sent: 24
+Added Recv: 24 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 25 with seq: 39
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 39
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 39 to send buffer
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 13
+PASSIVE - SEND SYN_ACK Packet with seq: 2 and ack: 14 
+PASSIVE - RCVD Last Ack Packet has seq: 14 and ack: 3 
+Received 10 bytes of data with seq: 14, last ack sent: 14
+Added Recv: 14 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 14 to application 
+Sending ack: 24 with seq: 3
+Starting timer after empty window
+Added Seq: 3 to send buffer
+Sending packet with seq: 3 of size: 36
+Waiting with RTO for Seq:3 
+Added Seq: 19 to send buffer
+Sending packet with seq: 19 of size: 40
+Waiting with RTO for Seq:3 
+Ack:19 received - Prior Window Bottom:3 - Window Top: 39
+Removing Seq: 3 from sender's buffer
+Waiting with RTO for Seq:19 
+Ack:39 received - Prior Window Bottom:19 - Window Top: 39
+Removing Seq: 19 from sender's buffer
+Received 0 bytes of data with seq: 24, last ack sent: 24
+Added Recv: 24 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 25 with seq: 39
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 39
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 39 to send buffer
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+Received 0 bytes of data with seq: 24, last ack sent: 25
+Received Duplicate Packet with seq: 24
+Sending ack: 25 with seq: 40
+Waiting with RTO for Seq:39 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 118
+PASSIVE - SEND SYN_ACK Packet with seq: 94 and ack: 119 
+PASSIVE - RCVD Last Ack Packet has seq: 119 and ack: 95 
+Received 10 bytes of data with seq: 119, last ack sent: 119
+Added Recv: 119 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 119 to application 
+Sending ack: 129 with seq: 95
+Starting timer after empty window
+Added Seq: 95 to send buffer
+Sending packet with seq: 95 of size: 36
+Waiting with RTO for Seq:95 
+Added Seq: 111 to send buffer
+Sending packet with seq: 111 of size: 40
+Waiting with RTO for Seq:95 
+Ack:111 received - Prior Window Bottom:95 - Window Top: 131
+Removing Seq: 95 from sender's buffer
+Waiting with RTO for Seq:111 
+Ack:131 received - Prior Window Bottom:111 - Window Top: 131
+Removing Seq: 111 from sender's buffer
+Received 0 bytes of data with seq: 129, last ack sent: 129
+Added Recv: 129 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 130 with seq: 131
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 131
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 131 to send buffer
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 118
+PASSIVE - SEND SYN_ACK Packet with seq: 94 and ack: 119 
+PASSIVE - RCVD Last Ack Packet has seq: 119 and ack: 95 
+Received 10 bytes of data with seq: 119, last ack sent: 119
+Added Recv: 119 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 119 to application 
+Sending ack: 129 with seq: 95
+Starting timer after empty window
+Added Seq: 95 to send buffer
+Sending packet with seq: 95 of size: 36
+Waiting with RTO for Seq:95 
+Added Seq: 111 to send buffer
+Sending packet with seq: 111 of size: 40
+Waiting with RTO for Seq:95 
+Ack:111 received - Prior Window Bottom:95 - Window Top: 131
+Removing Seq: 95 from sender's buffer
+Waiting with RTO for Seq:111 
+Ack:131 received - Prior Window Bottom:111 - Window Top: 131
+Removing Seq: 111 from sender's buffer
+Received 0 bytes of data with seq: 129, last ack sent: 129
+Added Recv: 129 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 130 with seq: 131
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 131
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 131 to send buffer
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 132
+Waiting with RTO for Seq:131 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 202
+PASSIVE - SEND SYN_ACK Packet with seq: 21 and ack: 203 
+PASSIVE - RCVD Last Ack Packet has seq: 203 and ack: 22 
+Received 10 bytes of data with seq: 203, last ack sent: 203
+Added Recv: 203 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 203 to application 
+Sending ack: 213 with seq: 22
+Starting timer after empty window
+Added Seq: 22 to send buffer
+Sending packet with seq: 22 of size: 36
+Waiting with RTO for Seq:22 
+Added Seq: 38 to send buffer
+Sending packet with seq: 38 of size: 40
+Waiting with RTO for Seq:22 
+Ack:38 received - Prior Window Bottom:22 - Window Top: 58
+Removing Seq: 22 from sender's buffer
+Waiting with RTO for Seq:38 
+Ack:58 received - Prior Window Bottom:38 - Window Top: 58
+Removing Seq: 38 from sender's buffer
+Received 0 bytes of data with seq: 213, last ack sent: 213
+Added Recv: 213 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 214 with seq: 58
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 58
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 58 to send buffer
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 202
+PASSIVE - SEND SYN_ACK Packet with seq: 21 and ack: 203 
+PASSIVE - RCVD Last Ack Packet has seq: 203 and ack: 22 
+Received 10 bytes of data with seq: 203, last ack sent: 203
+Added Recv: 203 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 203 to application 
+Sending ack: 213 with seq: 22
+Starting timer after empty window
+Added Seq: 22 to send buffer
+Sending packet with seq: 22 of size: 36
+Waiting with RTO for Seq:22 
+Added Seq: 38 to send buffer
+Sending packet with seq: 38 of size: 40
+Waiting with RTO for Seq:22 
+Ack:38 received - Prior Window Bottom:22 - Window Top: 58
+Removing Seq: 22 from sender's buffer
+Waiting with RTO for Seq:38 
+Ack:58 received - Prior Window Bottom:38 - Window Top: 58
+Removing Seq: 38 from sender's buffer
+Received 0 bytes of data with seq: 213, last ack sent: 213
+Added Recv: 213 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 214 with seq: 58
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 58
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 58 to send buffer
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+Received 0 bytes of data with seq: 213, last ack sent: 214
+Received Duplicate Packet with seq: 213
+Sending ack: 214 with seq: 59
+Waiting with RTO for Seq:58 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 51
+PASSIVE - SEND SYN_ACK Packet with seq: 241 and ack: 52 
+PASSIVE - RCVD Last Ack Packet has seq: 52 and ack: 242 
+Received 10 bytes of data with seq: 52, last ack sent: 52
+Added Recv: 52 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 52 to application 
+Sending ack: 62 with seq: 242
+Starting timer after empty window
+Added Seq: 242 to send buffer
+Sending packet with seq: 242 of size: 36
+Waiting with RTO for Seq:242 
+Added Seq: 258 to send buffer
+Sending packet with seq: 258 of size: 40
+Waiting with RTO for Seq:242 
+Ack:258 received - Prior Window Bottom:242 - Window Top: 278
+Removing Seq: 242 from sender's buffer
+Waiting with RTO for Seq:258 
+Ack:278 received - Prior Window Bottom:258 - Window Top: 278
+Removing Seq: 258 from sender's buffer
+Received 0 bytes of data with seq: 62, last ack sent: 62
+Added Recv: 62 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 63 with seq: 278
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 278
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 278 to send buffer
+Waiting with RTO for Seq:278 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 279
+Waiting with RTO for Seq:278 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 279
+Waiting with RTO for Seq:278 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 279
+Waiting with RTO for Seq:278 
+Received 0 bytes of data with seq: 62, last ack sent: 63
+Received Duplicate Packet with seq: 62
+Sending ack: 63 with seq: 279
+Waiting with RTO for Seq:278 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 47
+PASSIVE - SEND SYN_ACK Packet with seq: 24 and ack: 48 
+PASSIVE - RCVD Last Ack Packet has seq: 48 and ack: 25 
+Received 13 bytes of data with seq: 48, last ack sent: 48
+Added Recv: 48 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 48 to application 
+Sending ack: 61 with seq: 25
+Starting timer after empty window
+Added Seq: 25 to send buffer
+Sending packet with seq: 25 of size: 42
+Waiting with RTO for Seq:25 
+Added Seq: 47 to send buffer
+Sending packet with seq: 47 of size: 556
+Waiting with RTO for Seq:25 
+Added Seq: 583 to send buffer
+Sending packet with seq: 583 of size: 556
+Waiting with RTO for Seq:25 
+Added Seq: 1119 to send buffer
+Sending packet with seq: 1119 of size: 556
+Waiting with RTO for Seq:25 
+Added Seq: 1655 to send buffer
+Sending packet with seq: 1655 of size: 556
+Waiting with RTO for Seq:25 
+Added Seq: 2191 to send buffer
+Sending packet with seq: 2191 of size: 556
+Waiting with RTO for Seq:25 
+Added Seq: 2727 to send buffer
+Sending packet with seq: 2727 of size: 390
+Waiting with RTO for Seq:25 
+Ack:47 received - Prior Window Bottom:25 - Window Top: 3097
+Removing Seq: 25 from sender's buffer
+Waiting with RTO for Seq:47 
+Ack:583 received - Prior Window Bottom:47 - Window Top: 3097
+Removing Seq: 47 from sender's buffer
+Added Seq: 3097 to send buffer
+Sending packet with seq: 3097 of size: 556
+Waiting with RTO for Seq:583 
+Ack:1119 received - Prior Window Bottom:583 - Window Top: 3633
+Removing Seq: 583 from sender's buffer
+Added Seq: 3633 to send buffer
+Sending packet with seq: 3633 of size: 556
+Waiting with RTO for Seq:1119 
+Ack:1655 received - Prior Window Bottom:1119 - Window Top: 4169
+Removing Seq: 1119 from sender's buffer
+Added Seq: 4169 to send buffer
+Sending packet with seq: 4169 of size: 556
+Waiting with RTO for Seq:1655 
+Ack:2191 received - Prior Window Bottom:1655 - Window Top: 4705
+Removing Seq: 1655 from sender's buffer
+Added Seq: 4705 to send buffer
+Sending packet with seq: 4705 of size: 362
+Waiting with RTO for Seq:2191 
+Ack:2727 received - Prior Window Bottom:2191 - Window Top: 5047
+Removing Seq: 2191 from sender's buffer
+Added Seq: 5047 to send buffer
+Sending packet with seq: 5047 of size: 556
+Waiting with RTO for Seq:2727 
+Ack:3097 received - Prior Window Bottom:2727 - Window Top: 5583
+Removing Seq: 2727 from sender's buffer
+Added Seq: 5583 to send buffer
+Sending packet with seq: 5583 of size: 556
+Waiting with RTO for Seq:3097 
+Added Seq: 6119 to send buffer
+Sending packet with seq: 6119 of size: 70
+Waiting with RTO for Seq:3097 
+Ack:3633 received - Prior Window Bottom:3097 - Window Top: 6169
+Removing Seq: 3097 from sender's buffer
+Waiting with RTO for Seq:3633 
+Ack:4169 received - Prior Window Bottom:3633 - Window Top: 6169
+Removing Seq: 3633 from sender's buffer
+Added Seq: 6169 to send buffer
+Sending packet with seq: 6169 of size: 556
+Waiting with RTO for Seq:4169 
+Ack:4705 received - Prior Window Bottom:4169 - Window Top: 6705
+Removing Seq: 4169 from sender's buffer
+Added Seq: 6705 to send buffer
+Sending packet with seq: 6705 of size: 556
+Waiting with RTO for Seq:4705 
+Ack:5047 received - Prior Window Bottom:4705 - Window Top: 7241
+Removing Seq: 4705 from sender's buffer
+Added Seq: 7241 to send buffer
+Sending packet with seq: 7241 of size: 556
+Waiting with RTO for Seq:5047 
+Ack:5583 received - Prior Window Bottom:5047 - Window Top: 7777
+Removing Seq: 5047 from sender's buffer
+Added Seq: 7777 to send buffer
+Sending packet with seq: 7777 of size: 556
+Waiting with RTO for Seq:5583 
+Ack:5583 received - Prior Window Bottom:5583 - Window Top: 8313
+Added Seq: 8313 to send buffer
+Sending packet with seq: 8313 of size: 362
+Waiting with RTO for Seq:5583 
+Ack:6119 received - Prior Window Bottom:5583 - Window Top: 8655
+Removing Seq: 5583 from sender's buffer
+Waiting with RTO for Seq:6119 
+Ack:6119 received - Prior Window Bottom:6119 - Window Top: 8655
+Added Seq: 8655 to send buffer
+Sending packet with seq: 8655 of size: 556
+Waiting with RTO for Seq:6119 
+Ack:6169 received - Prior Window Bottom:6119 - Window Top: 9191
+Removing Seq: 6119 from sender's buffer
+Waiting with RTO for Seq:6169 
+Ack:6169 received - Prior Window Bottom:6169 - Window Top: 9191
+Added Seq: 9191 to send buffer
+Sending packet with seq: 9191 of size: 70
+Waiting with RTO for Seq:6169 
+Ack:7241 received - Prior Window Bottom:6169 - Window Top: 9241
+Removing Seq: 6169 from sender's buffer
+Removing Seq: 6705 from sender's buffer
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 9241
+Added Seq: 9241 to send buffer
+Sending packet with seq: 9241 of size: 556
+Waiting with RTO for Seq:7241 
+Added Seq: 9777 to send buffer
+Sending packet with seq: 9777 of size: 290
+Waiting with RTO for Seq:7241 
+Added Seq: 10047 to send buffer
+Sending packet with seq: 10047 of size: 286
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+Ack:7241 received - Prior Window Bottom:7241 - Window Top: 10313
+Waiting with RTO for Seq:7241 
+TIMEOUT waiting for seq:7241
+Retransmitting Seq:7241 with Len:556 
+Waiting with RTO for Seq:7241 
+Ack:10313 received - Prior Window Bottom:7241 - Window Top: 10313
+Removing Seq: 7241 from sender's buffer
+Removing Seq: 7777 from sender's buffer
+Removing Seq: 8313 from sender's buffer
+Removing Seq: 8655 from sender's buffer
+Removing Seq: 9191 from sender's buffer
+Removing Seq: 9241 from sender's buffer
+Removing Seq: 9777 from sender's buffer
+Removing Seq: 10047 from sender's buffer
+Starting timer after empty window
+Added Seq: 10313 to send buffer
+Sending packet with seq: 10313 of size: 556
+Waiting with RTO for Seq:10313 
+Added Seq: 10849 to send buffer
+Sending packet with seq: 10849 of size: 556
+Waiting with RTO for Seq:10313 
+Added Seq: 11385 to send buffer
+Sending packet with seq: 11385 of size: 556
+Waiting with RTO for Seq:10313 
+Added Seq: 11921 to send buffer
+Sending packet with seq: 11921 of size: 556
+Waiting with RTO for Seq:10313 
+Added Seq: 12457 to send buffer
+Sending packet with seq: 12457 of size: 556
+Waiting with RTO for Seq:10313 
+Added Seq: 12993 to send buffer
+Sending packet with seq: 12993 of size: 412
+Waiting with RTO for Seq:10313 
+Ack:10849 received - Prior Window Bottom:10313 - Window Top: 13385
+Removing Seq: 10313 from sender's buffer
+Waiting with RTO for Seq:10849 
+Ack:11385 received - Prior Window Bottom:10849 - Window Top: 13385
+Removing Seq: 10849 from sender's buffer
+Added Seq: 13385 to send buffer
+Sending packet with seq: 13385 of size: 556
+Waiting with RTO for Seq:11385 
+Ack:11921 received - Prior Window Bottom:11385 - Window Top: 13921
+Removing Seq: 11385 from sender's buffer
+Added Seq: 13921 to send buffer
+Sending packet with seq: 13921 of size: 556
+Waiting with RTO for Seq:11921 
+Ack:12457 received - Prior Window Bottom:11921 - Window Top: 14457
+Removing Seq: 11921 from sender's buffer
+Added Seq: 14457 to send buffer
+Sending packet with seq: 14457 of size: 556
+Waiting with RTO for Seq:12457 
+Ack:12993 received - Prior Window Bottom:12457 - Window Top: 14993
+Removing Seq: 12457 from sender's buffer
+Added Seq: 14993 to send buffer
+Sending packet with seq: 14993 of size: 74
+Waiting with RTO for Seq:12993 
+Ack:13385 received - Prior Window Bottom:12993 - Window Top: 15047
+Removing Seq: 12993 from sender's buffer
+Added Seq: 15047 to send buffer
+Sending packet with seq: 15047 of size: 556
+Waiting with RTO for Seq:13385 
+Added Seq: 15583 to send buffer
+Sending packet with seq: 15583 of size: 556
+Waiting with RTO for Seq:13385 
+Added Seq: 16119 to send buffer
+Sending packet with seq: 16119 of size: 358
+Waiting with RTO for Seq:13385 
+Ack:13921 received - Prior Window Bottom:13385 - Window Top: 16457
+Removing Seq: 13385 from sender's buffer
+Waiting with RTO for Seq:13921 
+Ack:14457 received - Prior Window Bottom:13921 - Window Top: 16457
+Removing Seq: 13921 from sender's buffer
+Added Seq: 16457 to send buffer
+Sending packet with seq: 16457 of size: 556
+Waiting with RTO for Seq:14457 
+Ack:14993 received - Prior Window Bottom:14457 - Window Top: 16993
+Removing Seq: 14457 from sender's buffer
+Added Seq: 16993 to send buffer
+Sending packet with seq: 16993 of size: 556
+Waiting with RTO for Seq:14993 
+Ack:15047 received - Prior Window Bottom:14993 - Window Top: 17529
+Removing Seq: 14993 from sender's buffer
+Added Seq: 17529 to send buffer
+Sending packet with seq: 17529 of size: 556
+Waiting with RTO for Seq:15047 
+Ack:15583 received - Prior Window Bottom:15047 - Window Top: 18065
+Removing Seq: 15047 from sender's buffer
+Added Seq: 18065 to send buffer
+Sending packet with seq: 18065 of size: 556
+Waiting with RTO for Seq:15583 
+Ack:16119 received - Prior Window Bottom:15583 - Window Top: 18601
+Removing Seq: 15583 from sender's buffer
+Added Seq: 18601 to send buffer
+Sending packet with seq: 18601 of size: 556
+Waiting with RTO for Seq:16119 
+Ack:16457 received - Prior Window Bottom:16119 - Window Top: 19137
+Removing Seq: 16119 from sender's buffer
+Added Seq: 19137 to send buffer
+Sending packet with seq: 19137 of size: 412
+Waiting with RTO for Seq:16457 
+Ack:16993 received - Prior Window Bottom:16457 - Window Top: 19529
+Removing Seq: 16457 from sender's buffer
+Waiting with RTO for Seq:16993 
+Ack:17529 received - Prior Window Bottom:16993 - Window Top: 19529
+Removing Seq: 16993 from sender's buffer
+Added Seq: 19529 to send buffer
+Sending packet with seq: 19529 of size: 538
+Waiting with RTO for Seq:17529 
+Ack:18065 received - Prior Window Bottom:17529 - Window Top: 20047
+Removing Seq: 17529 from sender's buffer
+Added Seq: 20047 to send buffer
+Sending packet with seq: 20047 of size: 556
+Waiting with RTO for Seq:18065 
+Ack:18601 received - Prior Window Bottom:18065 - Window Top: 20583
+Removing Seq: 18065 from sender's buffer
+Added Seq: 20583 to send buffer
+Sending packet with seq: 20583 of size: 556
+Waiting with RTO for Seq:18601 
+Ack:19137 received - Prior Window Bottom:18601 - Window Top: 21119
+Removing Seq: 18601 from sender's buffer
+Added Seq: 21119 to send buffer
+Sending packet with seq: 21119 of size: 556
+Waiting with RTO for Seq:19137 
+Ack:19529 received - Prior Window Bottom:19137 - Window Top: 21655
+Removing Seq: 19137 from sender's buffer
+Added Seq: 21655 to send buffer
+Sending packet with seq: 21655 of size: 556
+Waiting with RTO for Seq:19529 
+Added Seq: 22191 to send buffer
+Sending packet with seq: 22191 of size: 430
+Waiting with RTO for Seq:19529 
+Ack:20047 received - Prior Window Bottom:19529 - Window Top: 22601
+Removing Seq: 19529 from sender's buffer
+Waiting with RTO for Seq:20047 
+Ack:20583 received - Prior Window Bottom:20047 - Window Top: 22601
+Removing Seq: 20047 from sender's buffer
+Added Seq: 22601 to send buffer
+Sending packet with seq: 22601 of size: 556
+Waiting with RTO for Seq:20583 
+Ack:21119 received - Prior Window Bottom:20583 - Window Top: 23137
+Removing Seq: 20583 from sender's buffer
+Added Seq: 23137 to send buffer
+Sending packet with seq: 23137 of size: 556
+Waiting with RTO for Seq:21119 
+Ack:21655 received - Prior Window Bottom:21119 - Window Top: 23673
+Removing Seq: 21119 from sender's buffer
+Added Seq: 23673 to send buffer
+Sending packet with seq: 23673 of size: 556
+Waiting with RTO for Seq:21655 
+Ack:22191 received - Prior Window Bottom:21655 - Window Top: 24209
+Removing Seq: 21655 from sender's buffer
+Added Seq: 24209 to send buffer
+Sending packet with seq: 24209 of size: 556
+Waiting with RTO for Seq:22191 
+Ack:22191 received - Prior Window Bottom:22191 - Window Top: 24745
+Added Seq: 24745 to send buffer
+Sending packet with seq: 24745 of size: 322
+Waiting with RTO for Seq:22191 
+Ack:22601 received - Prior Window Bottom:22191 - Window Top: 25047
+Removing Seq: 22191 from sender's buffer
+Added Seq: 25047 to send buffer
+Sending packet with seq: 25047 of size: 556
+Waiting with RTO for Seq:22601 
+Added Seq: 25583 to send buffer
+Sending packet with seq: 25583 of size: 110
+Waiting with RTO for Seq:22601 
+Ack:23137 received - Prior Window Bottom:22601 - Window Top: 25673
+Removing Seq: 22601 from sender's buffer
+Waiting with RTO for Seq:23137 
+Ack:23137 received - Prior Window Bottom:23137 - Window Top: 25673
+Added Seq: 25673 to send buffer
+Sending packet with seq: 25673 of size: 556
+Waiting with RTO for Seq:23137 
+Ack:23673 received - Prior Window Bottom:23137 - Window Top: 26209
+Removing Seq: 23137 from sender's buffer
+Waiting with RTO for Seq:23673 
+Ack:24209 received - Prior Window Bottom:23673 - Window Top: 26209
+Removing Seq: 23673 from sender's buffer
+Added Seq: 26209 to send buffer
+Sending packet with seq: 26209 of size: 556
+Waiting with RTO for Seq:24209 
+Added Seq: 26745 to send buffer
+Sending packet with seq: 26745 of size: 556
+Waiting with RTO for Seq:24209 
+Ack:24745 received - Prior Window Bottom:24209 - Window Top: 27281
+Removing Seq: 24209 from sender's buffer
+Waiting with RTO for Seq:24745 
+Ack:25047 received - Prior Window Bottom:24745 - Window Top: 27281
+Removing Seq: 24745 from sender's buffer
+Added Seq: 27281 to send buffer
+Sending packet with seq: 27281 of size: 556
+Waiting with RTO for Seq:25047 
+Ack:25583 received - Prior Window Bottom:25047 - Window Top: 27817
+Removing Seq: 25047 from sender's buffer
+Added Seq: 27817 to send buffer
+Sending packet with seq: 27817 of size: 556
+Waiting with RTO for Seq:25583 
+Ack:25673 received - Prior Window Bottom:25583 - Window Top: 28353
+Removing Seq: 25583 from sender's buffer
+Added Seq: 28353 to send buffer
+Sending packet with seq: 28353 of size: 412
+Waiting with RTO for Seq:25673 
+Ack:26209 received - Prior Window Bottom:25673 - Window Top: 28745
+Removing Seq: 25673 from sender's buffer
+Waiting with RTO for Seq:26209 
+Ack:26745 received - Prior Window Bottom:26209 - Window Top: 28745
+Removing Seq: 26209 from sender's buffer
+Added Seq: 28745 to send buffer
+Sending packet with seq: 28745 of size: 556
+Waiting with RTO for Seq:26745 
+Ack:27281 received - Prior Window Bottom:26745 - Window Top: 29281
+Removing Seq: 26745 from sender's buffer
+Added Seq: 29281 to send buffer
+Sending packet with seq: 29281 of size: 556
+Waiting with RTO for Seq:27281 
+Added Seq: 29817 to send buffer
+Sending packet with seq: 29817 of size: 250
+Waiting with RTO for Seq:27281 
+Added Seq: 30047 to send buffer
+Sending packet with seq: 30047 of size: 326
+Waiting with RTO for Seq:27281 
+Ack:27817 received - Prior Window Bottom:27281 - Window Top: 30353
+Removing Seq: 27281 from sender's buffer
+Waiting with RTO for Seq:27817 
+Ack:28353 received - Prior Window Bottom:27817 - Window Top: 30353
+Removing Seq: 27817 from sender's buffer
+Added Seq: 30353 to send buffer
+Sending packet with seq: 30353 of size: 556
+Waiting with RTO for Seq:28353 
+Ack:28745 received - Prior Window Bottom:28353 - Window Top: 30889
+Removing Seq: 28353 from sender's buffer
+Added Seq: 30889 to send buffer
+Sending packet with seq: 30889 of size: 556
+Waiting with RTO for Seq:28745 
+Added Seq: 31425 to send buffer
+Sending packet with seq: 31425 of size: 412
+Waiting with RTO for Seq:28745 
+Ack:29281 received - Prior Window Bottom:28745 - Window Top: 31817
+Removing Seq: 28745 from sender's buffer
+Waiting with RTO for Seq:29281 
+Added Seq: 31817 to send buffer
+Sending packet with seq: 31817 of size: 556
+Waiting with RTO for Seq:29281 
+Ack:29817 received - Prior Window Bottom:29281 - Window Top: 32353
+Removing Seq: 29281 from sender's buffer
+Waiting with RTO for Seq:29817 
+Ack:30047 received - Prior Window Bottom:29817 - Window Top: 32353
+Removing Seq: 29817 from sender's buffer
+Added Seq: 32353 to send buffer
+Sending packet with seq: 32353 of size: 556
+Waiting with RTO for Seq:30047 
+Ack:30353 received - Prior Window Bottom:30047 - Window Top: 32889
+Removing Seq: 30047 from sender's buffer
+Added Seq: 32889 to send buffer
+Sending packet with seq: 32889 of size: 556
+Waiting with RTO for Seq:30353 
+Ack:30889 received - Prior Window Bottom:30353 - Window Top: 33425
+Removing Seq: 30353 from sender's buffer
+Waiting with RTO for Seq:30889 
+Ack:31425 received - Prior Window Bottom:30889 - Window Top: 33425
+Removing Seq: 30889 from sender's buffer
+Added Seq: 33425 to send buffer
+Sending packet with seq: 33425 of size: 556
+Waiting with RTO for Seq:31425 
+Ack:31817 received - Prior Window Bottom:31425 - Window Top: 33961
+Removing Seq: 31425 from sender's buffer
+Added Seq: 33961 to send buffer
+Sending packet with seq: 33961 of size: 556
+Waiting with RTO for Seq:31817 
+Ack:32353 received - Prior Window Bottom:31817 - Window Top: 34497
+Removing Seq: 31817 from sender's buffer
+Added Seq: 34497 to send buffer
+Sending packet with seq: 34497 of size: 556
+Waiting with RTO for Seq:32353 
+Added Seq: 35033 to send buffer
+Sending packet with seq: 35033 of size: 34
+Waiting with RTO for Seq:32353 
+Ack:32889 received - Prior Window Bottom:32353 - Window Top: 35047
+Removing Seq: 32353 from sender's buffer
+Added Seq: 35047 to send buffer
+Sending packet with seq: 35047 of size: 556
+Waiting with RTO for Seq:32889 
+Added Seq: 35583 to send buffer
+Sending packet with seq: 35583 of size: 398
+Waiting with RTO for Seq:32889 
+Ack:33425 received - Prior Window Bottom:32889 - Window Top: 35961
+Removing Seq: 32889 from sender's buffer
+Waiting with RTO for Seq:33425 
+Added Seq: 35961 to send buffer
+Sending packet with seq: 35961 of size: 556
+Waiting with RTO for Seq:33425 
+Ack:33961 received - Prior Window Bottom:33425 - Window Top: 36497
+Removing Seq: 33425 from sender's buffer
+Waiting with RTO for Seq:33961 
+Ack:34497 received - Prior Window Bottom:33961 - Window Top: 36497
+Removing Seq: 33961 from sender's buffer
+Added Seq: 36497 to send buffer
+Sending packet with seq: 36497 of size: 556
+Waiting with RTO for Seq:34497 
+Added Seq: 37033 to send buffer
+Sending packet with seq: 37033 of size: 556
+Waiting with RTO for Seq:34497 
+Ack:35033 received - Prior Window Bottom:34497 - Window Top: 37569
+Removing Seq: 34497 from sender's buffer
+Waiting with RTO for Seq:35033 
+Added Seq: 37569 to send buffer
+Sending packet with seq: 37569 of size: 556
+Waiting with RTO for Seq:35033 
+Ack:35583 received - Prior Window Bottom:35033 - Window Top: 38105
+Removing Seq: 35033 from sender's buffer
+Removing Seq: 35047 from sender's buffer
+Waiting with RTO for Seq:35583 
+Ack:35961 received - Prior Window Bottom:35583 - Window Top: 38105
+Removing Seq: 35583 from sender's buffer
+Added Seq: 38105 to send buffer
+Sending packet with seq: 38105 of size: 556
+Waiting with RTO for Seq:35961 
+Added Seq: 38641 to send buffer
+Sending packet with seq: 38641 of size: 412
+Waiting with RTO for Seq:35961 
+Ack:35961 received - Prior Window Bottom:35961 - Window Top: 39033
+Waiting with RTO for Seq:35961 
+Ack:35961 received - Prior Window Bottom:35961 - Window Top: 39033
+Waiting with RTO for Seq:35961 
+Ack:35961 received - Prior Window Bottom:35961 - Window Top: 39033
+Waiting with RTO for Seq:35961 
+TIMEOUT waiting for seq:35961
+Retransmitting Seq:35961 with Len:556 
+Waiting with RTO for Seq:35961 
+Ack:38641 received - Prior Window Bottom:35961 - Window Top: 39033
+Removing Seq: 35961 from sender's buffer
+Removing Seq: 36497 from sender's buffer
+Removing Seq: 37033 from sender's buffer
+Removing Seq: 37569 from sender's buffer
+Removing Seq: 38105 from sender's buffer
+Waiting with RTO for Seq:38641 
+Added Seq: 39033 to send buffer
+Sending packet with seq: 39033 of size: 556
+Waiting with RTO for Seq:38641 
+Added Seq: 39569 to send buffer
+Sending packet with seq: 39569 of size: 498
+Waiting with RTO for Seq:38641 
+Added Seq: 40047 to send buffer
+Sending packet with seq: 40047 of size: 556
+Waiting with RTO for Seq:38641 
+Added Seq: 40583 to send buffer
+Sending packet with seq: 40583 of size: 556
+Waiting with RTO for Seq:38641 
+Added Seq: 41119 to send buffer
+Sending packet with seq: 41119 of size: 556
+Waiting with RTO for Seq:38641 
+Added Seq: 41655 to send buffer
+Sending packet with seq: 41655 of size: 78
+Waiting with RTO for Seq:38641 
+Ack:38641 received - Prior Window Bottom:38641 - Window Top: 41713
+Waiting with RTO for Seq:38641 
+Ack:38641 received - Prior Window Bottom:38641 - Window Top: 41713
+Waiting with RTO for Seq:38641 
+Ack:38641 received - Prior Window Bottom:38641 - Window Top: 41713
+Waiting with RTO for Seq:38641 
+Ack:38641 received - Prior Window Bottom:38641 - Window Top: 41713
+Waiting with RTO for Seq:38641 
+Ack:38641 received - Prior Window Bottom:38641 - Window Top: 41713
+Waiting with RTO for Seq:38641 
+Ack:38641 received - Prior Window Bottom:38641 - Window Top: 41713
+Waiting with RTO for Seq:38641 
+TIMEOUT waiting for seq:38641
+Retransmitting Seq:38641 with Len:412 
+Waiting with RTO for Seq:38641 
+Ack:41713 received - Prior Window Bottom:38641 - Window Top: 41713
+Removing Seq: 38641 from sender's buffer
+Removing Seq: 39033 from sender's buffer
+Removing Seq: 39569 from sender's buffer
+Removing Seq: 40047 from sender's buffer
+Removing Seq: 40583 from sender's buffer
+Removing Seq: 41119 from sender's buffer
+Removing Seq: 41655 from sender's buffer
+Starting timer after empty window
+Added Seq: 41713 to send buffer
+Sending packet with seq: 41713 of size: 556
+Waiting with RTO for Seq:41713 
+Added Seq: 42249 to send buffer
+Sending packet with seq: 42249 of size: 556
+Waiting with RTO for Seq:41713 
+Added Seq: 42785 to send buffer
+Sending packet with seq: 42785 of size: 556
+Waiting with RTO for Seq:41713 
+Added Seq: 43321 to send buffer
+Sending packet with seq: 43321 of size: 556
+Waiting with RTO for Seq:41713 
+Added Seq: 43857 to send buffer
+Sending packet with seq: 43857 of size: 556
+Waiting with RTO for Seq:41713 
+Added Seq: 44393 to send buffer
+Sending packet with seq: 44393 of size: 412
+Waiting with RTO for Seq:41713 
+Ack:42249 received - Prior Window Bottom:41713 - Window Top: 44785
+Removing Seq: 41713 from sender's buffer
+Waiting with RTO for Seq:42249 
+Added Seq: 44785 to send buffer
+Sending packet with seq: 44785 of size: 282
+Waiting with RTO for Seq:42249 
+Added Seq: 45047 to send buffer
+Sending packet with seq: 45047 of size: 294
+Waiting with RTO for Seq:42249 
+Ack:42785 received - Prior Window Bottom:42249 - Window Top: 45321
+Removing Seq: 42249 from sender's buffer
+Waiting with RTO for Seq:42785 
+Added Seq: 45321 to send buffer
+Sending packet with seq: 45321 of size: 556
+Waiting with RTO for Seq:42785 
+Ack:42785 received - Prior Window Bottom:42785 - Window Top: 45857
+Waiting with RTO for Seq:42785 
+TIMEOUT waiting for seq:42785
+Retransmitting Seq:42785 with Len:556 
+Waiting with RTO for Seq:42785 
+Ack:43321 received - Prior Window Bottom:42785 - Window Top: 45857
+Removing Seq: 42785 from sender's buffer
+Waiting with RTO for Seq:43321 
+Added Seq: 45857 to send buffer
+Sending packet with seq: 45857 of size: 556
+Waiting with RTO for Seq:43321 
+Ack:43321 received - Prior Window Bottom:43321 - Window Top: 46393
+Waiting with RTO for Seq:43321 
+TIMEOUT waiting for seq:43321
+Retransmitting Seq:43321 with Len:556 
+Waiting with RTO for Seq:43321 
+Ack:44393 received - Prior Window Bottom:43321 - Window Top: 46393
+Removing Seq: 43321 from sender's buffer
+Removing Seq: 43857 from sender's buffer
+Waiting with RTO for Seq:44393 
+Added Seq: 46393 to send buffer
+Sending packet with seq: 46393 of size: 556
+Waiting with RTO for Seq:44393 
+Added Seq: 46929 to send buffer
+Sending packet with seq: 46929 of size: 556
+Waiting with RTO for Seq:44393 
+Ack:44393 received - Prior Window Bottom:44393 - Window Top: 47465
+Waiting with RTO for Seq:44393 
+TIMEOUT waiting for seq:44393
+Retransmitting Seq:44393 with Len:412 
+Waiting with RTO for Seq:44393 
+Ack:46393 received - Prior Window Bottom:44393 - Window Top: 47465
+Removing Seq: 44393 from sender's buffer
+Removing Seq: 44785 from sender's buffer
+Removing Seq: 45047 from sender's buffer
+Removing Seq: 45321 from sender's buffer
+Removing Seq: 45857 from sender's buffer
+Waiting with RTO for Seq:46393 
+Added Seq: 47465 to send buffer
+Sending packet with seq: 47465 of size: 556
+Waiting with RTO for Seq:46393 
+Added Seq: 48001 to send buffer
+Sending packet with seq: 48001 of size: 556
+Waiting with RTO for Seq:46393 
+Added Seq: 48537 to send buffer
+Sending packet with seq: 48537 of size: 556
+Waiting with RTO for Seq:46393 
+Added Seq: 49073 to send buffer
+Sending packet with seq: 49073 of size: 412
+Waiting with RTO for Seq:46393 
+Ack:46393 received - Prior Window Bottom:46393 - Window Top: 49465
+Waiting with RTO for Seq:46393 
+Ack:46393 received - Prior Window Bottom:46393 - Window Top: 49465
+Waiting with RTO for Seq:46393 
+Ack:46393 received - Prior Window Bottom:46393 - Window Top: 49465
+Waiting with RTO for Seq:46393 
+TIMEOUT waiting for seq:46393
+Retransmitting Seq:46393 with Len:556 
+Waiting with RTO for Seq:46393 
+Ack:49465 received - Prior Window Bottom:46393 - Window Top: 49465
+Removing Seq: 46393 from sender's buffer
+Removing Seq: 46929 from sender's buffer
+Removing Seq: 47465 from sender's buffer
+Removing Seq: 48001 from sender's buffer
+Removing Seq: 48537 from sender's buffer
+Removing Seq: 49073 from sender's buffer
+Starting timer after empty window
+Added Seq: 49465 to send buffer
+Sending packet with seq: 49465 of size: 556
+Waiting with RTO for Seq:49465 
+Added Seq: 50001 to send buffer
+Sending packet with seq: 50001 of size: 66
+Waiting with RTO for Seq:49465 
+Added Seq: 50047 to send buffer
+Sending packet with seq: 50047 of size: 556
+Waiting with RTO for Seq:49465 
+Added Seq: 50583 to send buffer
+Sending packet with seq: 50583 of size: 556
+Waiting with RTO for Seq:49465 
+Added Seq: 51119 to send buffer
+Sending packet with seq: 51119 of size: 556
+Waiting with RTO for Seq:49465 
+Added Seq: 51655 to send buffer
+Sending packet with seq: 51655 of size: 556
+Waiting with RTO for Seq:49465 
+Added Seq: 52191 to send buffer
+Sending packet with seq: 52191 of size: 366
+Waiting with RTO for Seq:49465 
+Ack:50001 received - Prior Window Bottom:49465 - Window Top: 52537
+Removing Seq: 49465 from sender's buffer
+Waiting with RTO for Seq:50001 
+Ack:50047 received - Prior Window Bottom:50001 - Window Top: 52537
+Removing Seq: 50001 from sender's buffer
+Added Seq: 52537 to send buffer
+Sending packet with seq: 52537 of size: 322
+Waiting with RTO for Seq:50047 
+Ack:50583 received - Prior Window Bottom:50047 - Window Top: 52839
+Removing Seq: 50047 from sender's buffer
+Waiting with RTO for Seq:50583 
+Ack:50583 received - Prior Window Bottom:50583 - Window Top: 52839
+Waiting with RTO for Seq:50583 
+Ack:50583 received - Prior Window Bottom:50583 - Window Top: 52839
+Waiting with RTO for Seq:50583 
+Ack:50583 received - Prior Window Bottom:50583 - Window Top: 52839
+Waiting with RTO for Seq:50583 
+TIMEOUT waiting for seq:50583
+Retransmitting Seq:50583 with Len:556 
+Waiting with RTO for Seq:50583 
+Ack:52839 received - Prior Window Bottom:50583 - Window Top: 52839
+Removing Seq: 50583 from sender's buffer
+Removing Seq: 51119 from sender's buffer
+Removing Seq: 51655 from sender's buffer
+Removing Seq: 52191 from sender's buffer
+Removing Seq: 52537 from sender's buffer
+Received 0 bytes of data with seq: 61, last ack sent: 61
+Added Recv: 61 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 62 with seq: 52839
+Received 0 bytes of data with seq: 61, last ack sent: 62
+Received Duplicate Packet with seq: 61
+Sending ack: 62 with seq: 52839
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 52839 to send buffer
+Waiting with RTO for Seq:52839 
+Received 0 bytes of data with seq: 61, last ack sent: 62
+Received Duplicate Packet with seq: 61
+Sending ack: 62 with seq: 52840
+Waiting with RTO for Seq:52839 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 237
+PASSIVE - SEND SYN_ACK Packet with seq: 44 and ack: 238 
+PASSIVE - RCVD Last Ack Packet has seq: 238 and ack: 45 
+Received 13 bytes of data with seq: 238, last ack sent: 238
+Added Recv: 238 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 238 to application 
+Sending ack: 251 with seq: 45
+Starting timer after empty window
+Added Seq: 45 to send buffer
+Sending packet with seq: 45 of size: 42
+Waiting with RTO for Seq:45 
+Added Seq: 67 to send buffer
+Sending packet with seq: 67 of size: 556
+Waiting with RTO for Seq:45 
+Added Seq: 603 to send buffer
+Sending packet with seq: 603 of size: 556
+Waiting with RTO for Seq:45 
+Added Seq: 1139 to send buffer
+Sending packet with seq: 1139 of size: 556
+Waiting with RTO for Seq:45 
+Added Seq: 1675 to send buffer
+Sending packet with seq: 1675 of size: 556
+Waiting with RTO for Seq:45 
+Added Seq: 2211 to send buffer
+Sending packet with seq: 2211 of size: 556
+Waiting with RTO for Seq:45 
+Added Seq: 2747 to send buffer
+Sending packet with seq: 2747 of size: 390
+Waiting with RTO for Seq:45 
+Ack:67 received - Prior Window Bottom:45 - Window Top: 3117
+Removing Seq: 45 from sender's buffer
+Waiting with RTO for Seq:67 
+Ack:603 received - Prior Window Bottom:67 - Window Top: 3117
+Removing Seq: 67 from sender's buffer
+Added Seq: 3117 to send buffer
+Sending packet with seq: 3117 of size: 556
+Waiting with RTO for Seq:603 
+Ack:1139 received - Prior Window Bottom:603 - Window Top: 3653
+Removing Seq: 603 from sender's buffer
+Added Seq: 3653 to send buffer
+Sending packet with seq: 3653 of size: 556
+Waiting with RTO for Seq:1139 
+Ack:1675 received - Prior Window Bottom:1139 - Window Top: 4189
+Removing Seq: 1139 from sender's buffer
+Added Seq: 4189 to send buffer
+Sending packet with seq: 4189 of size: 556
+Waiting with RTO for Seq:1675 
+Ack:2211 received - Prior Window Bottom:1675 - Window Top: 4725
+Removing Seq: 1675 from sender's buffer
+Added Seq: 4725 to send buffer
+Sending packet with seq: 4725 of size: 362
+Waiting with RTO for Seq:2211 
+Ack:2747 received - Prior Window Bottom:2211 - Window Top: 5067
+Removing Seq: 2211 from sender's buffer
+Added Seq: 5067 to send buffer
+Sending packet with seq: 5067 of size: 556
+Waiting with RTO for Seq:2747 
+Ack:3117 received - Prior Window Bottom:2747 - Window Top: 5603
+Removing Seq: 2747 from sender's buffer
+Added Seq: 5603 to send buffer
+Sending packet with seq: 5603 of size: 556
+Waiting with RTO for Seq:3117 
+Added Seq: 6139 to send buffer
+Sending packet with seq: 6139 of size: 70
+Waiting with RTO for Seq:3117 
+Ack:3653 received - Prior Window Bottom:3117 - Window Top: 6189
+Removing Seq: 3117 from sender's buffer
+Waiting with RTO for Seq:3653 
+Ack:4189 received - Prior Window Bottom:3653 - Window Top: 6189
+Removing Seq: 3653 from sender's buffer
+Added Seq: 6189 to send buffer
+Sending packet with seq: 6189 of size: 556
+Waiting with RTO for Seq:4189 
+Ack:4725 received - Prior Window Bottom:4189 - Window Top: 6725
+Removing Seq: 4189 from sender's buffer
+Added Seq: 6725 to send buffer
+Sending packet with seq: 6725 of size: 556
+Waiting with RTO for Seq:4725 
+Ack:5067 received - Prior Window Bottom:4725 - Window Top: 7261
+Removing Seq: 4725 from sender's buffer
+Added Seq: 7261 to send buffer
+Sending packet with seq: 7261 of size: 556
+Waiting with RTO for Seq:5067 
+Ack:5603 received - Prior Window Bottom:5067 - Window Top: 7797
+Removing Seq: 5067 from sender's buffer
+Added Seq: 7797 to send buffer
+Sending packet with seq: 7797 of size: 556
+Waiting with RTO for Seq:5603 
+Ack:5603 received - Prior Window Bottom:5603 - Window Top: 8333
+Added Seq: 8333 to send buffer
+Sending packet with seq: 8333 of size: 362
+Waiting with RTO for Seq:5603 
+Ack:6139 received - Prior Window Bottom:5603 - Window Top: 8675
+Removing Seq: 5603 from sender's buffer
+Waiting with RTO for Seq:6139 
+Ack:6139 received - Prior Window Bottom:6139 - Window Top: 8675
+Added Seq: 8675 to send buffer
+Sending packet with seq: 8675 of size: 556
+Waiting with RTO for Seq:6139 
+Ack:6189 received - Prior Window Bottom:6139 - Window Top: 9211
+Removing Seq: 6139 from sender's buffer
+Waiting with RTO for Seq:6189 
+Ack:6189 received - Prior Window Bottom:6189 - Window Top: 9211
+Added Seq: 9211 to send buffer
+Sending packet with seq: 9211 of size: 70
+Waiting with RTO for Seq:6189 
+Ack:7261 received - Prior Window Bottom:6189 - Window Top: 9261
+Removing Seq: 6189 from sender's buffer
+Removing Seq: 6725 from sender's buffer
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 9261
+Added Seq: 9261 to send buffer
+Sending packet with seq: 9261 of size: 556
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 9797
+Added Seq: 9797 to send buffer
+Sending packet with seq: 9797 of size: 290
+Waiting with RTO for Seq:7261 
+Added Seq: 10067 to send buffer
+Sending packet with seq: 10067 of size: 286
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 10333
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 10333
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 10333
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 10333
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 10333
+Waiting with RTO for Seq:7261 
+Ack:7261 received - Prior Window Bottom:7261 - Window Top: 10333
+Waiting with RTO for Seq:7261 
+TIMEOUT waiting for seq:7261
+Retransmitting Seq:7261 with Len:556 
+Waiting with RTO for Seq:7261 
+Ack:10333 received - Prior Window Bottom:7261 - Window Top: 10333
+Removing Seq: 7261 from sender's buffer
+Removing Seq: 7797 from sender's buffer
+Removing Seq: 8333 from sender's buffer
+Removing Seq: 8675 from sender's buffer
+Removing Seq: 9211 from sender's buffer
+Removing Seq: 9261 from sender's buffer
+Removing Seq: 9797 from sender's buffer
+Removing Seq: 10067 from sender's buffer
+Starting timer after empty window
+Added Seq: 10333 to send buffer
+Sending packet with seq: 10333 of size: 556
+Waiting with RTO for Seq:10333 
+Added Seq: 10869 to send buffer
+Sending packet with seq: 10869 of size: 556
+Waiting with RTO for Seq:10333 
+Added Seq: 11405 to send buffer
+Sending packet with seq: 11405 of size: 556
+Waiting with RTO for Seq:10333 
+Added Seq: 11941 to send buffer
+Sending packet with seq: 11941 of size: 556
+Waiting with RTO for Seq:10333 
+Added Seq: 12477 to send buffer
+Sending packet with seq: 12477 of size: 556
+Waiting with RTO for Seq:10333 
+Added Seq: 13013 to send buffer
+Sending packet with seq: 13013 of size: 412
+Waiting with RTO for Seq:10333 
+Ack:10869 received - Prior Window Bottom:10333 - Window Top: 13405
+Removing Seq: 10333 from sender's buffer
+Waiting with RTO for Seq:10869 
+Ack:11405 received - Prior Window Bottom:10869 - Window Top: 13405
+Removing Seq: 10869 from sender's buffer
+Added Seq: 13405 to send buffer
+Sending packet with seq: 13405 of size: 556
+Waiting with RTO for Seq:11405 
+Ack:11941 received - Prior Window Bottom:11405 - Window Top: 13941
+Removing Seq: 11405 from sender's buffer
+Added Seq: 13941 to send buffer
+Sending packet with seq: 13941 of size: 556
+Waiting with RTO for Seq:11941 
+Ack:12477 received - Prior Window Bottom:11941 - Window Top: 14477
+Removing Seq: 11941 from sender's buffer
+Added Seq: 14477 to send buffer
+Sending packet with seq: 14477 of size: 556
+Waiting with RTO for Seq:12477 
+Ack:13013 received - Prior Window Bottom:12477 - Window Top: 15013
+Removing Seq: 12477 from sender's buffer
+Added Seq: 15013 to send buffer
+Sending packet with seq: 15013 of size: 74
+Waiting with RTO for Seq:13013 
+Ack:13405 received - Prior Window Bottom:13013 - Window Top: 15067
+Removing Seq: 13013 from sender's buffer
+Added Seq: 15067 to send buffer
+Sending packet with seq: 15067 of size: 556
+Waiting with RTO for Seq:13405 
+Added Seq: 15603 to send buffer
+Sending packet with seq: 15603 of size: 556
+Waiting with RTO for Seq:13405 
+Added Seq: 16139 to send buffer
+Sending packet with seq: 16139 of size: 358
+Waiting with RTO for Seq:13405 
+Ack:13941 received - Prior Window Bottom:13405 - Window Top: 16477
+Removing Seq: 13405 from sender's buffer
+Waiting with RTO for Seq:13941 
+Ack:14477 received - Prior Window Bottom:13941 - Window Top: 16477
+Removing Seq: 13941 from sender's buffer
+Added Seq: 16477 to send buffer
+Sending packet with seq: 16477 of size: 556
+Waiting with RTO for Seq:14477 
+Ack:15013 received - Prior Window Bottom:14477 - Window Top: 17013
+Removing Seq: 14477 from sender's buffer
+Added Seq: 17013 to send buffer
+Sending packet with seq: 17013 of size: 556
+Waiting with RTO for Seq:15013 
+Ack:15067 received - Prior Window Bottom:15013 - Window Top: 17549
+Removing Seq: 15013 from sender's buffer
+Added Seq: 17549 to send buffer
+Sending packet with seq: 17549 of size: 556
+Waiting with RTO for Seq:15067 
+Added Seq: 18085 to send buffer
+Sending packet with seq: 18085 of size: 74
+Waiting with RTO for Seq:15067 
+Ack:15603 received - Prior Window Bottom:15067 - Window Top: 18139
+Removing Seq: 15067 from sender's buffer
+Waiting with RTO for Seq:15603 
+Ack:16139 received - Prior Window Bottom:15603 - Window Top: 18139
+Removing Seq: 15603 from sender's buffer
+Added Seq: 18139 to send buffer
+Sending packet with seq: 18139 of size: 556
+Waiting with RTO for Seq:16139 
+Ack:16477 received - Prior Window Bottom:16139 - Window Top: 18675
+Removing Seq: 16139 from sender's buffer
+Added Seq: 18675 to send buffer
+Sending packet with seq: 18675 of size: 556
+Waiting with RTO for Seq:16477 
+Added Seq: 19211 to send buffer
+Sending packet with seq: 19211 of size: 358
+Waiting with RTO for Seq:16477 
+Ack:17013 received - Prior Window Bottom:16477 - Window Top: 19549
+Removing Seq: 16477 from sender's buffer
+Waiting with RTO for Seq:17013 
+Ack:17549 received - Prior Window Bottom:17013 - Window Top: 19549
+Removing Seq: 17013 from sender's buffer
+Added Seq: 19549 to send buffer
+Sending packet with seq: 19549 of size: 538
+Waiting with RTO for Seq:17549 
+Added Seq: 20067 to send buffer
+Sending packet with seq: 20067 of size: 556
+Waiting with RTO for Seq:17549 
+Added Seq: 20603 to send buffer
+Sending packet with seq: 20603 of size: 38
+Waiting with RTO for Seq:17549 
+Ack:18085 received - Prior Window Bottom:17549 - Window Top: 20621
+Removing Seq: 17549 from sender's buffer
+Waiting with RTO for Seq:18085 
+Added Seq: 20621 to send buffer
+Sending packet with seq: 20621 of size: 556
+Waiting with RTO for Seq:18085 
+Ack:18139 received - Prior Window Bottom:18085 - Window Top: 21157
+Removing Seq: 18085 from sender's buffer
+Waiting with RTO for Seq:18139 
+Ack:18675 received - Prior Window Bottom:18139 - Window Top: 21157
+Removing Seq: 18139 from sender's buffer
+Added Seq: 21157 to send buffer
+Sending packet with seq: 21157 of size: 556
+Waiting with RTO for Seq:18675 
+Ack:19211 received - Prior Window Bottom:18675 - Window Top: 21693
+Removing Seq: 18675 from sender's buffer
+Added Seq: 21693 to send buffer
+Sending packet with seq: 21693 of size: 556
+Waiting with RTO for Seq:19211 
+Added Seq: 22229 to send buffer
+Sending packet with seq: 22229 of size: 74
+Waiting with RTO for Seq:19211 
+Ack:19549 received - Prior Window Bottom:19211 - Window Top: 22283
+Removing Seq: 19211 from sender's buffer
+Waiting with RTO for Seq:19549 
+Ack:20067 received - Prior Window Bottom:19549 - Window Top: 22283
+Removing Seq: 19549 from sender's buffer
+Added Seq: 22283 to send buffer
+Sending packet with seq: 22283 of size: 556
+Waiting with RTO for Seq:20067 
+Added Seq: 22819 to send buffer
+Sending packet with seq: 22819 of size: 340
+Waiting with RTO for Seq:20067 
+Ack:20603 received - Prior Window Bottom:20067 - Window Top: 23139
+Removing Seq: 20067 from sender's buffer
+Waiting with RTO for Seq:20603 
+Added Seq: 23139 to send buffer
+Sending packet with seq: 23139 of size: 556
+Waiting with RTO for Seq:20603 
+Ack:20621 received - Prior Window Bottom:20603 - Window Top: 23675
+Removing Seq: 20603 from sender's buffer
+Waiting with RTO for Seq:20621 
+Ack:21157 received - Prior Window Bottom:20621 - Window Top: 23675
+Removing Seq: 20621 from sender's buffer
+Added Seq: 23675 to send buffer
+Sending packet with seq: 23675 of size: 556
+Waiting with RTO for Seq:21157 
+Ack:21157 received - Prior Window Bottom:21157 - Window Top: 24211
+Added Seq: 24211 to send buffer
+Sending packet with seq: 24211 of size: 38
+Waiting with RTO for Seq:21157 
+Ack:21693 received - Prior Window Bottom:21157 - Window Top: 24229
+Removing Seq: 21157 from sender's buffer
+Waiting with RTO for Seq:21693 
+Ack:22229 received - Prior Window Bottom:21693 - Window Top: 24229
+Removing Seq: 21693 from sender's buffer
+Added Seq: 24229 to send buffer
+Sending packet with seq: 24229 of size: 556
+Waiting with RTO for Seq:22229 
+Ack:22229 received - Prior Window Bottom:22229 - Window Top: 24765
+Added Seq: 24765 to send buffer
+Sending packet with seq: 24765 of size: 322
+Waiting with RTO for Seq:22229 
+Ack:22283 received - Prior Window Bottom:22229 - Window Top: 25067
+Removing Seq: 22229 from sender's buffer
+Added Seq: 25067 to send buffer
+Sending packet with seq: 25067 of size: 308
+Waiting with RTO for Seq:22283 
+Ack:22819 received - Prior Window Bottom:22283 - Window Top: 25355
+Removing Seq: 22283 from sender's buffer
+Waiting with RTO for Seq:22819 
+Ack:23139 received - Prior Window Bottom:22819 - Window Top: 25355
+Removing Seq: 22819 from sender's buffer
+Added Seq: 25355 to send buffer
+Sending packet with seq: 25355 of size: 556
+Waiting with RTO for Seq:23139 
+Ack:23675 received - Prior Window Bottom:23139 - Window Top: 25891
+Removing Seq: 23139 from sender's buffer
+Added Seq: 25891 to send buffer
+Sending packet with seq: 25891 of size: 556
+Waiting with RTO for Seq:23675 
+Ack:24211 received - Prior Window Bottom:23675 - Window Top: 26427
+Removing Seq: 23675 from sender's buffer
+Added Seq: 26427 to send buffer
+Sending packet with seq: 26427 of size: 556
+Waiting with RTO for Seq:24211 
+Ack:24229 received - Prior Window Bottom:24211 - Window Top: 26963
+Removing Seq: 24211 from sender's buffer
+Added Seq: 26963 to send buffer
+Sending packet with seq: 26963 of size: 358
+Waiting with RTO for Seq:24229 
+Ack:24765 received - Prior Window Bottom:24229 - Window Top: 27301
+Removing Seq: 24229 from sender's buffer
+Waiting with RTO for Seq:24765 
+Added Seq: 27301 to send buffer
+Sending packet with seq: 27301 of size: 556
+Waiting with RTO for Seq:24765 
+Ack:25067 received - Prior Window Bottom:24765 - Window Top: 27837
+Removing Seq: 24765 from sender's buffer
+Waiting with RTO for Seq:25067 
+Ack:25355 received - Prior Window Bottom:25067 - Window Top: 27837
+Removing Seq: 25067 from sender's buffer
+Added Seq: 27837 to send buffer
+Sending packet with seq: 27837 of size: 556
+Waiting with RTO for Seq:25355 
+Added Seq: 28373 to send buffer
+Sending packet with seq: 28373 of size: 74
+Waiting with RTO for Seq:25355 
+Ack:25891 received - Prior Window Bottom:25355 - Window Top: 28427
+Removing Seq: 25355 from sender's buffer
+Waiting with RTO for Seq:25891 
+Ack:26427 received - Prior Window Bottom:25891 - Window Top: 28427
+Removing Seq: 25891 from sender's buffer
+Added Seq: 28427 to send buffer
+Sending packet with seq: 28427 of size: 556
+Waiting with RTO for Seq:26427 
+Added Seq: 28963 to send buffer
+Sending packet with seq: 28963 of size: 556
+Waiting with RTO for Seq:26427 
+Ack:26963 received - Prior Window Bottom:26427 - Window Top: 29499
+Removing Seq: 26427 from sender's buffer
+Waiting with RTO for Seq:26963 
+Ack:27301 received - Prior Window Bottom:26963 - Window Top: 29499
+Removing Seq: 26963 from sender's buffer
+Added Seq: 29499 to send buffer
+Sending packet with seq: 29499 of size: 556
+Waiting with RTO for Seq:27301 
+Ack:27837 received - Prior Window Bottom:27301 - Window Top: 30035
+Removing Seq: 27301 from sender's buffer
+Added Seq: 30035 to send buffer
+Sending packet with seq: 30035 of size: 52
+Waiting with RTO for Seq:27837 
+Added Seq: 30067 to send buffer
+Sending packet with seq: 30067 of size: 556
+Waiting with RTO for Seq:27837 
+Added Seq: 30603 to send buffer
+Sending packet with seq: 30603 of size: 326
+Waiting with RTO for Seq:27837 
+Ack:28373 received - Prior Window Bottom:27837 - Window Top: 30909
+Removing Seq: 27837 from sender's buffer
+Waiting with RTO for Seq:28373 
+Ack:28427 received - Prior Window Bottom:28373 - Window Top: 30909
+Removing Seq: 28373 from sender's buffer
+Added Seq: 30909 to send buffer
+Sending packet with seq: 30909 of size: 556
+Waiting with RTO for Seq:28427 
+Ack:28963 received - Prior Window Bottom:28427 - Window Top: 31445
+Removing Seq: 28427 from sender's buffer
+Added Seq: 31445 to send buffer
+Sending packet with seq: 31445 of size: 556
+Waiting with RTO for Seq:28963 
+Ack:29499 received - Prior Window Bottom:28963 - Window Top: 31981
+Removing Seq: 28963 from sender's buffer
+Added Seq: 31981 to send buffer
+Sending packet with seq: 31981 of size: 556
+Waiting with RTO for Seq:29499 
+Added Seq: 32517 to send buffer
+Sending packet with seq: 32517 of size: 74
+Waiting with RTO for Seq:29499 
+Ack:30035 received - Prior Window Bottom:29499 - Window Top: 32571
+Removing Seq: 29499 from sender's buffer
+Waiting with RTO for Seq:30035 
+Ack:30067 received - Prior Window Bottom:30035 - Window Top: 32571
+Removing Seq: 30035 from sender's buffer
+Added Seq: 32571 to send buffer
+Sending packet with seq: 32571 of size: 556
+Waiting with RTO for Seq:30067 
+Ack:30603 received - Prior Window Bottom:30067 - Window Top: 33107
+Removing Seq: 30067 from sender's buffer
+Added Seq: 33107 to send buffer
+Sending packet with seq: 33107 of size: 556
+Waiting with RTO for Seq:30603 
+Ack:30909 received - Prior Window Bottom:30603 - Window Top: 33643
+Removing Seq: 30603 from sender's buffer
+Added Seq: 33643 to send buffer
+Sending packet with seq: 33643 of size: 358
+Waiting with RTO for Seq:30909 
+Ack:31445 received - Prior Window Bottom:30909 - Window Top: 33981
+Removing Seq: 30909 from sender's buffer
+Waiting with RTO for Seq:31445 
+Ack:31981 received - Prior Window Bottom:31445 - Window Top: 33981
+Removing Seq: 31445 from sender's buffer
+Added Seq: 33981 to send buffer
+Sending packet with seq: 33981 of size: 556
+Waiting with RTO for Seq:31981 
+Added Seq: 34517 to send buffer
+Sending packet with seq: 34517 of size: 556
+Waiting with RTO for Seq:31981 
+Ack:32517 received - Prior Window Bottom:31981 - Window Top: 35053
+Removing Seq: 31981 from sender's buffer
+Waiting with RTO for Seq:32517 
+Added Seq: 35053 to send buffer
+Sending packet with seq: 35053 of size: 34
+Waiting with RTO for Seq:32517 
+Added Seq: 35067 to send buffer
+Sending packet with seq: 35067 of size: 542
+Waiting with RTO for Seq:32517 
+Ack:33107 received - Prior Window Bottom:32517 - Window Top: 35589
+Removing Seq: 32517 from sender's buffer
+Removing Seq: 32571 from sender's buffer
+Waiting with RTO for Seq:33107 
+Added Seq: 35589 to send buffer
+Sending packet with seq: 35589 of size: 556
+Waiting with RTO for Seq:33107 
+Added Seq: 36125 to send buffer
+Sending packet with seq: 36125 of size: 74
+Waiting with RTO for Seq:33107 
+Ack:33643 received - Prior Window Bottom:33107 - Window Top: 36179
+Removing Seq: 33107 from sender's buffer
+Waiting with RTO for Seq:33643 
+Ack:33643 received - Prior Window Bottom:33643 - Window Top: 36179
+Added Seq: 36179 to send buffer
+Sending packet with seq: 36179 of size: 556
+Waiting with RTO for Seq:33643 
+Ack:33643 received - Prior Window Bottom:33643 - Window Top: 36715
+Waiting with RTO for Seq:33643 
+Ack:33643 received - Prior Window Bottom:33643 - Window Top: 36715
+Waiting with RTO for Seq:33643 
+Ack:33643 received - Prior Window Bottom:33643 - Window Top: 36715
+Waiting with RTO for Seq:33643 
+Ack:33643 received - Prior Window Bottom:33643 - Window Top: 36715
+Waiting with RTO for Seq:33643 
+TIMEOUT waiting for seq:33643
+Retransmitting Seq:33643 with Len:358 
+Waiting with RTO for Seq:33643 
+Ack:35589 received - Prior Window Bottom:33643 - Window Top: 36715
+Removing Seq: 33643 from sender's buffer
+Removing Seq: 33981 from sender's buffer
+Removing Seq: 34517 from sender's buffer
+Removing Seq: 35053 from sender's buffer
+Removing Seq: 35067 from sender's buffer
+Waiting with RTO for Seq:35589 
+Added Seq: 36715 to send buffer
+Sending packet with seq: 36715 of size: 556
+Waiting with RTO for Seq:35589 
+Added Seq: 37251 to send buffer
+Sending packet with seq: 37251 of size: 556
+Waiting with RTO for Seq:35589 
+Added Seq: 37787 to send buffer
+Sending packet with seq: 37787 of size: 556
+Waiting with RTO for Seq:35589 
+Added Seq: 38323 to send buffer
+Sending packet with seq: 38323 of size: 358
+Waiting with RTO for Seq:35589 
+Ack:35589 received - Prior Window Bottom:35589 - Window Top: 38661
+Waiting with RTO for Seq:35589 
+Ack:35589 received - Prior Window Bottom:35589 - Window Top: 38661
+Waiting with RTO for Seq:35589 
+Ack:35589 received - Prior Window Bottom:35589 - Window Top: 38661
+Waiting with RTO for Seq:35589 
+Ack:35589 received - Prior Window Bottom:35589 - Window Top: 38661
+Waiting with RTO for Seq:35589 
+TIMEOUT waiting for seq:35589
+Retransmitting Seq:35589 with Len:556 
+Waiting with RTO for Seq:35589 
+Ack:38661 received - Prior Window Bottom:35589 - Window Top: 38661
+Removing Seq: 35589 from sender's buffer
+Removing Seq: 36125 from sender's buffer
+Removing Seq: 36179 from sender's buffer
+Removing Seq: 36715 from sender's buffer
+Removing Seq: 37251 from sender's buffer
+Removing Seq: 37787 from sender's buffer
+Removing Seq: 38323 from sender's buffer
+Starting timer after empty window
+Added Seq: 38661 to send buffer
+Sending packet with seq: 38661 of size: 556
+Waiting with RTO for Seq:38661 
+Added Seq: 39197 to send buffer
+Sending packet with seq: 39197 of size: 556
+Waiting with RTO for Seq:38661 
+Added Seq: 39733 to send buffer
+Sending packet with seq: 39733 of size: 354
+Waiting with RTO for Seq:38661 
+Added Seq: 40067 to send buffer
+Sending packet with seq: 40067 of size: 556
+Waiting with RTO for Seq:38661 
+Added Seq: 40603 to send buffer
+Sending packet with seq: 40603 of size: 556
+Waiting with RTO for Seq:38661 
+Added Seq: 41139 to send buffer
+Sending packet with seq: 41139 of size: 556
+Waiting with RTO for Seq:38661 
+Added Seq: 41675 to send buffer
+Sending packet with seq: 41675 of size: 78
+Waiting with RTO for Seq:38661 
+Ack:39197 received - Prior Window Bottom:38661 - Window Top: 41733
+Removing Seq: 38661 from sender's buffer
+Waiting with RTO for Seq:39197 
+Ack:39733 received - Prior Window Bottom:39197 - Window Top: 41733
+Removing Seq: 39197 from sender's buffer
+Added Seq: 41733 to send buffer
+Sending packet with seq: 41733 of size: 556
+Waiting with RTO for Seq:39733 
+Added Seq: 42269 to send buffer
+Sending packet with seq: 42269 of size: 556
+Waiting with RTO for Seq:39733 
+Ack:39733 received - Prior Window Bottom:39733 - Window Top: 42805
+Waiting with RTO for Seq:39733 
+TIMEOUT waiting for seq:39733
+Retransmitting Seq:39733 with Len:354 
+Waiting with RTO for Seq:39733 
+Ack:40067 received - Prior Window Bottom:39733 - Window Top: 42805
+Removing Seq: 39733 from sender's buffer
+Waiting with RTO for Seq:40067 
+Added Seq: 42805 to send buffer
+Sending packet with seq: 42805 of size: 354
+Waiting with RTO for Seq:40067 
+Ack:40067 received - Prior Window Bottom:40067 - Window Top: 43139
+Waiting with RTO for Seq:40067 
+TIMEOUT waiting for seq:40067
+Retransmitting Seq:40067 with Len:556 
+Waiting with RTO for Seq:40067 
+Ack:41139 received - Prior Window Bottom:40067 - Window Top: 43139
+Removing Seq: 40067 from sender's buffer
+Removing Seq: 40603 from sender's buffer
+Waiting with RTO for Seq:41139 
+Added Seq: 43139 to send buffer
+Sending packet with seq: 43139 of size: 556
+Waiting with RTO for Seq:41139 
+Added Seq: 43675 to send buffer
+Sending packet with seq: 43675 of size: 556
+Waiting with RTO for Seq:41139 
+Ack:41139 received - Prior Window Bottom:41139 - Window Top: 44211
+Waiting with RTO for Seq:41139 
+TIMEOUT waiting for seq:41139
+Retransmitting Seq:41139 with Len:556 
+Waiting with RTO for Seq:41139 
+Ack:43139 received - Prior Window Bottom:41139 - Window Top: 44211
+Removing Seq: 41139 from sender's buffer
+Removing Seq: 41675 from sender's buffer
+Removing Seq: 41733 from sender's buffer
+Removing Seq: 42269 from sender's buffer
+Removing Seq: 42805 from sender's buffer
+Waiting with RTO for Seq:43139 
+Added Seq: 44211 to send buffer
+Sending packet with seq: 44211 of size: 556
+Waiting with RTO for Seq:43139 
+Added Seq: 44747 to send buffer
+Sending packet with seq: 44747 of size: 340
+Waiting with RTO for Seq:43139 
+Added Seq: 45067 to send buffer
+Sending packet with seq: 45067 of size: 556
+Waiting with RTO for Seq:43139 
+Added Seq: 45603 to send buffer
+Sending packet with seq: 45603 of size: 556
+Waiting with RTO for Seq:43139 
+Added Seq: 46139 to send buffer
+Sending packet with seq: 46139 of size: 92
+Waiting with RTO for Seq:43139 
+Ack:43139 received - Prior Window Bottom:43139 - Window Top: 46211
+Waiting with RTO for Seq:43139 
+Ack:43139 received - Prior Window Bottom:43139 - Window Top: 46211
+Waiting with RTO for Seq:43139 
+Ack:43139 received - Prior Window Bottom:43139 - Window Top: 46211
+Waiting with RTO for Seq:43139 
+Ack:43139 received - Prior Window Bottom:43139 - Window Top: 46211
+Waiting with RTO for Seq:43139 
+TIMEOUT waiting for seq:43139
+Retransmitting Seq:43139 with Len:556 
+Waiting with RTO for Seq:43139 
+Ack:46211 received - Prior Window Bottom:43139 - Window Top: 46211
+Removing Seq: 43139 from sender's buffer
+Removing Seq: 43675 from sender's buffer
+Removing Seq: 44211 from sender's buffer
+Removing Seq: 44747 from sender's buffer
+Removing Seq: 45067 from sender's buffer
+Removing Seq: 45603 from sender's buffer
+Removing Seq: 46139 from sender's buffer
+Starting timer after empty window
+Added Seq: 46211 to send buffer
+Sending packet with seq: 46211 of size: 556
+Waiting with RTO for Seq:46211 
+Added Seq: 46747 to send buffer
+Sending packet with seq: 46747 of size: 556
+Waiting with RTO for Seq:46211 
+Added Seq: 47283 to send buffer
+Sending packet with seq: 47283 of size: 556
+Waiting with RTO for Seq:46211 
+Added Seq: 47819 to send buffer
+Sending packet with seq: 47819 of size: 556
+Waiting with RTO for Seq:46211 
+Added Seq: 48355 to send buffer
+Sending packet with seq: 48355 of size: 556
+Waiting with RTO for Seq:46211 
+Added Seq: 48891 to send buffer
+Sending packet with seq: 48891 of size: 412
+Waiting with RTO for Seq:46211 
+Ack:46747 received - Prior Window Bottom:46211 - Window Top: 49283
+Removing Seq: 46211 from sender's buffer
+Waiting with RTO for Seq:46747 
+Ack:47283 received - Prior Window Bottom:46747 - Window Top: 49283
+Removing Seq: 46747 from sender's buffer
+Added Seq: 49283 to send buffer
+Sending packet with seq: 49283 of size: 556
+Waiting with RTO for Seq:47283 
+Ack:47283 received - Prior Window Bottom:47283 - Window Top: 49819
+Added Seq: 49819 to send buffer
+Sending packet with seq: 49819 of size: 268
+Waiting with RTO for Seq:47283 
+Ack:47283 received - Prior Window Bottom:47283 - Window Top: 50067
+Added Seq: 50067 to send buffer
+Sending packet with seq: 50067 of size: 308
+Waiting with RTO for Seq:47283 
+Ack:47283 received - Prior Window Bottom:47283 - Window Top: 50355
+Waiting with RTO for Seq:47283 
+Ack:47283 received - Prior Window Bottom:47283 - Window Top: 50355
+Waiting with RTO for Seq:47283 
+Ack:47283 received - Prior Window Bottom:47283 - Window Top: 50355
+Waiting with RTO for Seq:47283 
+TIMEOUT waiting for seq:47283
+Retransmitting Seq:47283 with Len:556 
+Waiting with RTO for Seq:47283 
+Ack:50355 received - Prior Window Bottom:47283 - Window Top: 50355
+Removing Seq: 47283 from sender's buffer
+Removing Seq: 47819 from sender's buffer
+Removing Seq: 48355 from sender's buffer
+Removing Seq: 48891 from sender's buffer
+Removing Seq: 49283 from sender's buffer
+Removing Seq: 49819 from sender's buffer
+Removing Seq: 50067 from sender's buffer
+Starting timer after empty window
+Added Seq: 50355 to send buffer
+Sending packet with seq: 50355 of size: 556
+Waiting with RTO for Seq:50355 
+Added Seq: 50891 to send buffer
+Sending packet with seq: 50891 of size: 556
+Waiting with RTO for Seq:50355 
+Added Seq: 51427 to send buffer
+Sending packet with seq: 51427 of size: 556
+Waiting with RTO for Seq:50355 
+Added Seq: 51963 to send buffer
+Sending packet with seq: 51963 of size: 556
+Waiting with RTO for Seq:50355 
+Added Seq: 52499 to send buffer
+Sending packet with seq: 52499 of size: 380
+Waiting with RTO for Seq:50355 
+Ack:50891 received - Prior Window Bottom:50355 - Window Top: 52859
+Removing Seq: 50355 from sender's buffer
+Waiting with RTO for Seq:50891 
+Ack:51427 received - Prior Window Bottom:50891 - Window Top: 52859
+Removing Seq: 50891 from sender's buffer
+Waiting with RTO for Seq:51427 
+Ack:51963 received - Prior Window Bottom:51427 - Window Top: 52859
+Removing Seq: 51427 from sender's buffer
+Waiting with RTO for Seq:51963 
+Ack:52499 received - Prior Window Bottom:51963 - Window Top: 52859
+Removing Seq: 51963 from sender's buffer
+Waiting with RTO for Seq:52499 
+Ack:52859 received - Prior Window Bottom:52499 - Window Top: 52859
+Removing Seq: 52499 from sender's buffer
+Received 0 bytes of data with seq: 251, last ack sent: 251
+Added Recv: 251 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 252 with seq: 52859
+Received 0 bytes of data with seq: 251, last ack sent: 252
+Received Duplicate Packet with seq: 251
+Sending ack: 252 with seq: 52859
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 52859 to send buffer
+Waiting with RTO for Seq:52859 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 124
+PASSIVE - SEND SYN_ACK Packet with seq: 245 and ack: 125 
+PASSIVE - RCVD Last Ack Packet has seq: 125 and ack: 246 
+Received 13 bytes of data with seq: 125, last ack sent: 125
+Added Recv: 125 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 125 to application 
+Sending ack: 138 with seq: 246
+Starting timer after empty window
+Added Seq: 246 to send buffer
+Sending packet with seq: 246 of size: 42
+Waiting with RTO for Seq:246 
+Added Seq: 268 to send buffer
+Sending packet with seq: 268 of size: 556
+Waiting with RTO for Seq:246 
+Added Seq: 804 to send buffer
+Sending packet with seq: 804 of size: 556
+Waiting with RTO for Seq:246 
+Added Seq: 1340 to send buffer
+Sending packet with seq: 1340 of size: 556
+Waiting with RTO for Seq:246 
+Added Seq: 1876 to send buffer
+Sending packet with seq: 1876 of size: 556
+Waiting with RTO for Seq:246 
+Added Seq: 2412 to send buffer
+Sending packet with seq: 2412 of size: 556
+Waiting with RTO for Seq:246 
+Added Seq: 2948 to send buffer
+Sending packet with seq: 2948 of size: 390
+Waiting with RTO for Seq:246 
+Ack:268 received - Prior Window Bottom:246 - Window Top: 3318
+Removing Seq: 246 from sender's buffer
+Waiting with RTO for Seq:268 
+Ack:804 received - Prior Window Bottom:268 - Window Top: 3318
+Removing Seq: 268 from sender's buffer
+Added Seq: 3318 to send buffer
+Sending packet with seq: 3318 of size: 556
+Waiting with RTO for Seq:804 
+Ack:1340 received - Prior Window Bottom:804 - Window Top: 3854
+Removing Seq: 804 from sender's buffer
+Added Seq: 3854 to send buffer
+Sending packet with seq: 3854 of size: 556
+Waiting with RTO for Seq:1340 
+Ack:1876 received - Prior Window Bottom:1340 - Window Top: 4390
+Removing Seq: 1340 from sender's buffer
+Added Seq: 4390 to send buffer
+Sending packet with seq: 4390 of size: 556
+Waiting with RTO for Seq:1876 
+Ack:2412 received - Prior Window Bottom:1876 - Window Top: 4926
+Removing Seq: 1876 from sender's buffer
+Added Seq: 4926 to send buffer
+Sending packet with seq: 4926 of size: 362
+Waiting with RTO for Seq:2412 
+Ack:2948 received - Prior Window Bottom:2412 - Window Top: 5268
+Removing Seq: 2412 from sender's buffer
+Added Seq: 5268 to send buffer
+Sending packet with seq: 5268 of size: 556
+Waiting with RTO for Seq:2948 
+Ack:3318 received - Prior Window Bottom:2948 - Window Top: 5804
+Removing Seq: 2948 from sender's buffer
+Added Seq: 5804 to send buffer
+Sending packet with seq: 5804 of size: 556
+Waiting with RTO for Seq:3318 
+Added Seq: 6340 to send buffer
+Sending packet with seq: 6340 of size: 70
+Waiting with RTO for Seq:3318 
+Ack:3854 received - Prior Window Bottom:3318 - Window Top: 6390
+Removing Seq: 3318 from sender's buffer
+Waiting with RTO for Seq:3854 
+Ack:4390 received - Prior Window Bottom:3854 - Window Top: 6390
+Removing Seq: 3854 from sender's buffer
+Added Seq: 6390 to send buffer
+Sending packet with seq: 6390 of size: 556
+Waiting with RTO for Seq:4390 
+Ack:4926 received - Prior Window Bottom:4390 - Window Top: 6926
+Removing Seq: 4390 from sender's buffer
+Added Seq: 6926 to send buffer
+Sending packet with seq: 6926 of size: 556
+Waiting with RTO for Seq:4926 
+Ack:5268 received - Prior Window Bottom:4926 - Window Top: 7462
+Removing Seq: 4926 from sender's buffer
+Added Seq: 7462 to send buffer
+Sending packet with seq: 7462 of size: 556
+Waiting with RTO for Seq:5268 
+Ack:5804 received - Prior Window Bottom:5268 - Window Top: 7998
+Removing Seq: 5268 from sender's buffer
+Added Seq: 7998 to send buffer
+Sending packet with seq: 7998 of size: 556
+Waiting with RTO for Seq:5804 
+Ack:5804 received - Prior Window Bottom:5804 - Window Top: 8534
+Added Seq: 8534 to send buffer
+Sending packet with seq: 8534 of size: 362
+Waiting with RTO for Seq:5804 
+Ack:6340 received - Prior Window Bottom:5804 - Window Top: 8876
+Removing Seq: 5804 from sender's buffer
+Waiting with RTO for Seq:6340 
+Ack:6340 received - Prior Window Bottom:6340 - Window Top: 8876
+Added Seq: 8876 to send buffer
+Sending packet with seq: 8876 of size: 556
+Waiting with RTO for Seq:6340 
+Ack:6390 received - Prior Window Bottom:6340 - Window Top: 9412
+Removing Seq: 6340 from sender's buffer
+Waiting with RTO for Seq:6390 
+Ack:6390 received - Prior Window Bottom:6390 - Window Top: 9412
+Added Seq: 9412 to send buffer
+Sending packet with seq: 9412 of size: 70
+Waiting with RTO for Seq:6390 
+Ack:7462 received - Prior Window Bottom:6390 - Window Top: 9462
+Removing Seq: 6390 from sender's buffer
+Removing Seq: 6926 from sender's buffer
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 9462
+Added Seq: 9462 to send buffer
+Sending packet with seq: 9462 of size: 556
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 9998
+Added Seq: 9998 to send buffer
+Sending packet with seq: 9998 of size: 290
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 10268
+Added Seq: 10268 to send buffer
+Sending packet with seq: 10268 of size: 286
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 10534
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 10534
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 10534
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 10534
+Waiting with RTO for Seq:7462 
+Ack:7462 received - Prior Window Bottom:7462 - Window Top: 10534
+Waiting with RTO for Seq:7462 
+TIMEOUT waiting for seq:7462
+Retransmitting Seq:7462 with Len:556 
+Waiting with RTO for Seq:7462 
+Ack:10534 received - Prior Window Bottom:7462 - Window Top: 10534
+Removing Seq: 7462 from sender's buffer
+Removing Seq: 7998 from sender's buffer
+Removing Seq: 8534 from sender's buffer
+Removing Seq: 8876 from sender's buffer
+Removing Seq: 9412 from sender's buffer
+Removing Seq: 9462 from sender's buffer
+Removing Seq: 9998 from sender's buffer
+Removing Seq: 10268 from sender's buffer
+Starting timer after empty window
+Added Seq: 10534 to send buffer
+Sending packet with seq: 10534 of size: 556
+Waiting with RTO for Seq:10534 
+Added Seq: 11070 to send buffer
+Sending packet with seq: 11070 of size: 556
+Waiting with RTO for Seq:10534 
+Added Seq: 11606 to send buffer
+Sending packet with seq: 11606 of size: 556
+Waiting with RTO for Seq:10534 
+Added Seq: 12142 to send buffer
+Sending packet with seq: 12142 of size: 556
+Waiting with RTO for Seq:10534 
+Added Seq: 12678 to send buffer
+Sending packet with seq: 12678 of size: 556
+Waiting with RTO for Seq:10534 
+Added Seq: 13214 to send buffer
+Sending packet with seq: 13214 of size: 412
+Waiting with RTO for Seq:10534 
+Ack:11070 received - Prior Window Bottom:10534 - Window Top: 13606
+Removing Seq: 10534 from sender's buffer
+Waiting with RTO for Seq:11070 
+Ack:11606 received - Prior Window Bottom:11070 - Window Top: 13606
+Removing Seq: 11070 from sender's buffer
+Added Seq: 13606 to send buffer
+Sending packet with seq: 13606 of size: 556
+Waiting with RTO for Seq:11606 
+Ack:12142 received - Prior Window Bottom:11606 - Window Top: 14142
+Removing Seq: 11606 from sender's buffer
+Added Seq: 14142 to send buffer
+Sending packet with seq: 14142 of size: 556
+Waiting with RTO for Seq:12142 
+Ack:12678 received - Prior Window Bottom:12142 - Window Top: 14678
+Removing Seq: 12142 from sender's buffer
+Added Seq: 14678 to send buffer
+Sending packet with seq: 14678 of size: 556
+Waiting with RTO for Seq:12678 
+Ack:13214 received - Prior Window Bottom:12678 - Window Top: 15214
+Removing Seq: 12678 from sender's buffer
+Added Seq: 15214 to send buffer
+Sending packet with seq: 15214 of size: 74
+Waiting with RTO for Seq:13214 
+Ack:13606 received - Prior Window Bottom:13214 - Window Top: 15268
+Removing Seq: 13214 from sender's buffer
+Added Seq: 15268 to send buffer
+Sending packet with seq: 15268 of size: 556
+Waiting with RTO for Seq:13606 
+Added Seq: 15804 to send buffer
+Sending packet with seq: 15804 of size: 556
+Waiting with RTO for Seq:13606 
+Added Seq: 16340 to send buffer
+Sending packet with seq: 16340 of size: 358
+Waiting with RTO for Seq:13606 
+Ack:14142 received - Prior Window Bottom:13606 - Window Top: 16678
+Removing Seq: 13606 from sender's buffer
+Waiting with RTO for Seq:14142 
+Ack:14678 received - Prior Window Bottom:14142 - Window Top: 16678
+Removing Seq: 14142 from sender's buffer
+Added Seq: 16678 to send buffer
+Sending packet with seq: 16678 of size: 556
+Waiting with RTO for Seq:14678 
+Ack:15214 received - Prior Window Bottom:14678 - Window Top: 17214
+Removing Seq: 14678 from sender's buffer
+Added Seq: 17214 to send buffer
+Sending packet with seq: 17214 of size: 556
+Waiting with RTO for Seq:15214 
+Ack:15268 received - Prior Window Bottom:15214 - Window Top: 17750
+Removing Seq: 15214 from sender's buffer
+Added Seq: 17750 to send buffer
+Sending packet with seq: 17750 of size: 556
+Waiting with RTO for Seq:15268 
+Ack:15804 received - Prior Window Bottom:15268 - Window Top: 18286
+Removing Seq: 15268 from sender's buffer
+Added Seq: 18286 to send buffer
+Sending packet with seq: 18286 of size: 556
+Waiting with RTO for Seq:15804 
+Ack:16340 received - Prior Window Bottom:15804 - Window Top: 18822
+Removing Seq: 15804 from sender's buffer
+Added Seq: 18822 to send buffer
+Sending packet with seq: 18822 of size: 556
+Waiting with RTO for Seq:16340 
+Ack:16678 received - Prior Window Bottom:16340 - Window Top: 19358
+Removing Seq: 16340 from sender's buffer
+Added Seq: 19358 to send buffer
+Sending packet with seq: 19358 of size: 412
+Waiting with RTO for Seq:16678 
+Ack:17214 received - Prior Window Bottom:16678 - Window Top: 19750
+Removing Seq: 16678 from sender's buffer
+Waiting with RTO for Seq:17214 
+Ack:17750 received - Prior Window Bottom:17214 - Window Top: 19750
+Removing Seq: 17214 from sender's buffer
+Added Seq: 19750 to send buffer
+Sending packet with seq: 19750 of size: 538
+Waiting with RTO for Seq:17750 
+Ack:18286 received - Prior Window Bottom:17750 - Window Top: 20268
+Removing Seq: 17750 from sender's buffer
+Added Seq: 20268 to send buffer
+Sending packet with seq: 20268 of size: 556
+Waiting with RTO for Seq:18286 
+Ack:18822 received - Prior Window Bottom:18286 - Window Top: 20804
+Removing Seq: 18286 from sender's buffer
+Added Seq: 20804 to send buffer
+Sending packet with seq: 20804 of size: 556
+Waiting with RTO for Seq:18822 
+Ack:19358 received - Prior Window Bottom:18822 - Window Top: 21340
+Removing Seq: 18822 from sender's buffer
+Added Seq: 21340 to send buffer
+Sending packet with seq: 21340 of size: 556
+Waiting with RTO for Seq:19358 
+Ack:19750 received - Prior Window Bottom:19358 - Window Top: 21876
+Removing Seq: 19358 from sender's buffer
+Added Seq: 21876 to send buffer
+Sending packet with seq: 21876 of size: 556
+Waiting with RTO for Seq:19750 
+Added Seq: 22412 to send buffer
+Sending packet with seq: 22412 of size: 430
+Waiting with RTO for Seq:19750 
+Ack:20268 received - Prior Window Bottom:19750 - Window Top: 22822
+Removing Seq: 19750 from sender's buffer
+Waiting with RTO for Seq:20268 
+Ack:20804 received - Prior Window Bottom:20268 - Window Top: 22822
+Removing Seq: 20268 from sender's buffer
+Added Seq: 22822 to send buffer
+Sending packet with seq: 22822 of size: 556
+Waiting with RTO for Seq:20804 
+Added Seq: 23358 to send buffer
+Sending packet with seq: 23358 of size: 538
+Waiting with RTO for Seq:20804 
+Ack:21340 received - Prior Window Bottom:20804 - Window Top: 23876
+Removing Seq: 20804 from sender's buffer
+Waiting with RTO for Seq:21340 
+Ack:21876 received - Prior Window Bottom:21340 - Window Top: 23876
+Removing Seq: 21340 from sender's buffer
+Added Seq: 23876 to send buffer
+Sending packet with seq: 23876 of size: 556
+Waiting with RTO for Seq:21876 
+Added Seq: 24412 to send buffer
+Sending packet with seq: 24412 of size: 556
+Waiting with RTO for Seq:21876 
+Ack:22412 received - Prior Window Bottom:21876 - Window Top: 24948
+Removing Seq: 21876 from sender's buffer
+Waiting with RTO for Seq:22412 
+Ack:22412 received - Prior Window Bottom:22412 - Window Top: 24948
+Added Seq: 24948 to send buffer
+Sending packet with seq: 24948 of size: 340
+Waiting with RTO for Seq:22412 
+Ack:22822 received - Prior Window Bottom:22412 - Window Top: 25268
+Removing Seq: 22412 from sender's buffer
+Added Seq: 25268 to send buffer
+Sending packet with seq: 25268 of size: 556
+Waiting with RTO for Seq:22822 
+Ack:23358 received - Prior Window Bottom:22822 - Window Top: 25804
+Removing Seq: 22822 from sender's buffer
+Added Seq: 25804 to send buffer
+Sending packet with seq: 25804 of size: 556
+Waiting with RTO for Seq:23358 
+Ack:23358 received - Prior Window Bottom:23358 - Window Top: 26340
+Added Seq: 26340 to send buffer
+Sending packet with seq: 26340 of size: 110
+Waiting with RTO for Seq:23358 
+Ack:23876 received - Prior Window Bottom:23358 - Window Top: 26430
+Removing Seq: 23358 from sender's buffer
+Waiting with RTO for Seq:23876 
+Ack:24412 received - Prior Window Bottom:23876 - Window Top: 26430
+Removing Seq: 23876 from sender's buffer
+Added Seq: 26430 to send buffer
+Sending packet with seq: 26430 of size: 556
+Waiting with RTO for Seq:24412 
+Ack:24948 received - Prior Window Bottom:24412 - Window Top: 26966
+Removing Seq: 24412 from sender's buffer
+Added Seq: 26966 to send buffer
+Sending packet with seq: 26966 of size: 556
+Waiting with RTO for Seq:24948 
+Ack:25268 received - Prior Window Bottom:24948 - Window Top: 27502
+Removing Seq: 24948 from sender's buffer
+Added Seq: 27502 to send buffer
+Sending packet with seq: 27502 of size: 556
+Waiting with RTO for Seq:25268 
+Added Seq: 28038 to send buffer
+Sending packet with seq: 28038 of size: 322
+Waiting with RTO for Seq:25268 
+Ack:25804 received - Prior Window Bottom:25268 - Window Top: 28340
+Removing Seq: 25268 from sender's buffer
+Waiting with RTO for Seq:25804 
+Added Seq: 28340 to send buffer
+Sending packet with seq: 28340 of size: 556
+Waiting with RTO for Seq:25804 
+Ack:26340 received - Prior Window Bottom:25804 - Window Top: 28876
+Removing Seq: 25804 from sender's buffer
+Waiting with RTO for Seq:26340 
+Ack:26430 received - Prior Window Bottom:26340 - Window Top: 28876
+Removing Seq: 26340 from sender's buffer
+Added Seq: 28876 to send buffer
+Sending packet with seq: 28876 of size: 556
+Waiting with RTO for Seq:26430 
+Added Seq: 29412 to send buffer
+Sending packet with seq: 29412 of size: 110
+Waiting with RTO for Seq:26430 
+Ack:26966 received - Prior Window Bottom:26430 - Window Top: 29502
+Removing Seq: 26430 from sender's buffer
+Waiting with RTO for Seq:26966 
+Ack:27502 received - Prior Window Bottom:26966 - Window Top: 29502
+Removing Seq: 26966 from sender's buffer
+Added Seq: 29502 to send buffer
+Sending packet with seq: 29502 of size: 556
+Waiting with RTO for Seq:27502 
+Added Seq: 30038 to send buffer
+Sending packet with seq: 30038 of size: 250
+Waiting with RTO for Seq:27502 
+Added Seq: 30268 to send buffer
+Sending packet with seq: 30268 of size: 326
+Waiting with RTO for Seq:27502 
+Ack:28038 received - Prior Window Bottom:27502 - Window Top: 30574
+Removing Seq: 27502 from sender's buffer
+Waiting with RTO for Seq:28038 
+Ack:28340 received - Prior Window Bottom:28038 - Window Top: 30574
+Removing Seq: 28038 from sender's buffer
+Added Seq: 30574 to send buffer
+Sending packet with seq: 30574 of size: 556
+Waiting with RTO for Seq:28340 
+Ack:28876 received - Prior Window Bottom:28340 - Window Top: 31110
+Removing Seq: 28340 from sender's buffer
+Added Seq: 31110 to send buffer
+Sending packet with seq: 31110 of size: 556
+Waiting with RTO for Seq:28876 
+Added Seq: 31646 to send buffer
+Sending packet with seq: 31646 of size: 322
+Waiting with RTO for Seq:28876 
+Ack:29412 received - Prior Window Bottom:28876 - Window Top: 31948
+Removing Seq: 28876 from sender's buffer
+Waiting with RTO for Seq:29412 
+Ack:29502 received - Prior Window Bottom:29412 - Window Top: 31948
+Removing Seq: 29412 from sender's buffer
+Added Seq: 31948 to send buffer
+Sending packet with seq: 31948 of size: 556
+Waiting with RTO for Seq:29502 
+Ack:30038 received - Prior Window Bottom:29502 - Window Top: 32484
+Removing Seq: 29502 from sender's buffer
+Added Seq: 32484 to send buffer
+Sending packet with seq: 32484 of size: 556
+Waiting with RTO for Seq:30038 
+Added Seq: 33020 to send buffer
+Sending packet with seq: 33020 of size: 110
+Waiting with RTO for Seq:30038 
+Ack:30268 received - Prior Window Bottom:30038 - Window Top: 33110
+Removing Seq: 30038 from sender's buffer
+Waiting with RTO for Seq:30268 
+Ack:30574 received - Prior Window Bottom:30268 - Window Top: 33110
+Removing Seq: 30268 from sender's buffer
+Added Seq: 33110 to send buffer
+Sending packet with seq: 33110 of size: 556
+Waiting with RTO for Seq:30574 
+Ack:31110 received - Prior Window Bottom:30574 - Window Top: 33646
+Removing Seq: 30574 from sender's buffer
+Waiting with RTO for Seq:31110 
+Added Seq: 33646 to send buffer
+Sending packet with seq: 33646 of size: 556
+Waiting with RTO for Seq:31110 
+Ack:31646 received - Prior Window Bottom:31110 - Window Top: 34182
+Removing Seq: 31110 from sender's buffer
+Waiting with RTO for Seq:31646 
+Ack:31948 received - Prior Window Bottom:31646 - Window Top: 34182
+Removing Seq: 31646 from sender's buffer
+Added Seq: 34182 to send buffer
+Sending packet with seq: 34182 of size: 556
+Waiting with RTO for Seq:31948 
+Ack:32484 received - Prior Window Bottom:31948 - Window Top: 34718
+Removing Seq: 31948 from sender's buffer
+Added Seq: 34718 to send buffer
+Sending packet with seq: 34718 of size: 556
+Waiting with RTO for Seq:32484 
+Added Seq: 35254 to send buffer
+Sending packet with seq: 35254 of size: 34
+Waiting with RTO for Seq:32484 
+Added Seq: 35268 to send buffer
+Sending packet with seq: 35268 of size: 308
+Waiting with RTO for Seq:32484 
+Ack:33020 received - Prior Window Bottom:32484 - Window Top: 35556
+Removing Seq: 32484 from sender's buffer
+Waiting with RTO for Seq:33020 
+Ack:33110 received - Prior Window Bottom:33020 - Window Top: 35556
+Removing Seq: 33020 from sender's buffer
+Added Seq: 35556 to send buffer
+Sending packet with seq: 35556 of size: 556
+Waiting with RTO for Seq:33110 
+Ack:33646 received - Prior Window Bottom:33110 - Window Top: 36092
+Removing Seq: 33110 from sender's buffer
+Added Seq: 36092 to send buffer
+Sending packet with seq: 36092 of size: 556
+Waiting with RTO for Seq:33646 
+Added Seq: 36628 to send buffer
+Sending packet with seq: 36628 of size: 110
+Waiting with RTO for Seq:33646 
+Ack:34182 received - Prior Window Bottom:33646 - Window Top: 36718
+Removing Seq: 33646 from sender's buffer
+Waiting with RTO for Seq:34182 
+Ack:35254 received - Prior Window Bottom:34182 - Window Top: 36718
+Removing Seq: 34182 from sender's buffer
+Removing Seq: 34718 from sender's buffer
+Added Seq: 36718 to send buffer
+Sending packet with seq: 36718 of size: 556
+Waiting with RTO for Seq:35254 
+Added Seq: 37254 to send buffer
+Sending packet with seq: 37254 of size: 556
+Waiting with RTO for Seq:35254 
+Added Seq: 37790 to send buffer
+Sending packet with seq: 37790 of size: 556
+Waiting with RTO for Seq:35254 
+Ack:35268 received - Prior Window Bottom:35254 - Window Top: 38326
+Removing Seq: 35254 from sender's buffer
+Waiting with RTO for Seq:35268 
+Ack:35268 received - Prior Window Bottom:35268 - Window Top: 38326
+Added Seq: 38326 to send buffer
+Sending packet with seq: 38326 of size: 34
+Waiting with RTO for Seq:35268 
+Ack:35268 received - Prior Window Bottom:35268 - Window Top: 38340
+Waiting with RTO for Seq:35268 
+Ack:35268 received - Prior Window Bottom:35268 - Window Top: 38340
+Waiting with RTO for Seq:35268 
+Ack:35268 received - Prior Window Bottom:35268 - Window Top: 38340
+Waiting with RTO for Seq:35268 
+Ack:35268 received - Prior Window Bottom:35268 - Window Top: 38340
+Waiting with RTO for Seq:35268 
+TIMEOUT waiting for seq:35268
+Retransmitting Seq:35268 with Len:308 
+Waiting with RTO for Seq:35268 
+Ack:37254 received - Prior Window Bottom:35268 - Window Top: 38340
+Removing Seq: 35268 from sender's buffer
+Removing Seq: 35556 from sender's buffer
+Removing Seq: 36092 from sender's buffer
+Removing Seq: 36628 from sender's buffer
+Removing Seq: 36718 from sender's buffer
+Waiting with RTO for Seq:37254 
+Added Seq: 38340 to send buffer
+Sending packet with seq: 38340 of size: 556
+Waiting with RTO for Seq:37254 
+Added Seq: 38876 to send buffer
+Sending packet with seq: 38876 of size: 556
+Waiting with RTO for Seq:37254 
+Added Seq: 39412 to send buffer
+Sending packet with seq: 39412 of size: 556
+Waiting with RTO for Seq:37254 
+Added Seq: 39948 to send buffer
+Sending packet with seq: 39948 of size: 340
+Waiting with RTO for Seq:37254 
+Added Seq: 40268 to send buffer
+Sending packet with seq: 40268 of size: 78
+Waiting with RTO for Seq:37254 
+Ack:37254 received - Prior Window Bottom:37254 - Window Top: 40326
+Waiting with RTO for Seq:37254 
+Ack:37254 received - Prior Window Bottom:37254 - Window Top: 40326
+Waiting with RTO for Seq:37254 
+Ack:37254 received - Prior Window Bottom:37254 - Window Top: 40326
+Waiting with RTO for Seq:37254 
+Ack:37254 received - Prior Window Bottom:37254 - Window Top: 40326
+Waiting with RTO for Seq:37254 
+Ack:37254 received - Prior Window Bottom:37254 - Window Top: 40326
+Waiting with RTO for Seq:37254 
+TIMEOUT waiting for seq:37254
+Retransmitting Seq:37254 with Len:556 
+Waiting with RTO for Seq:37254 
+Ack:40326 received - Prior Window Bottom:37254 - Window Top: 40326
+Removing Seq: 37254 from sender's buffer
+Removing Seq: 37790 from sender's buffer
+Removing Seq: 38326 from sender's buffer
+Removing Seq: 38340 from sender's buffer
+Removing Seq: 38876 from sender's buffer
+Removing Seq: 39412 from sender's buffer
+Removing Seq: 39948 from sender's buffer
+Removing Seq: 40268 from sender's buffer
+Starting timer after empty window
+Added Seq: 40326 to send buffer
+Sending packet with seq: 40326 of size: 556
+Waiting with RTO for Seq:40326 
+Added Seq: 40862 to send buffer
+Sending packet with seq: 40862 of size: 556
+Waiting with RTO for Seq:40326 
+Added Seq: 41398 to send buffer
+Sending packet with seq: 41398 of size: 556
+Waiting with RTO for Seq:40326 
+Added Seq: 41934 to send buffer
+Sending packet with seq: 41934 of size: 556
+Waiting with RTO for Seq:40326 
+Added Seq: 42470 to send buffer
+Sending packet with seq: 42470 of size: 556
+Waiting with RTO for Seq:40326 
+Added Seq: 43006 to send buffer
+Sending packet with seq: 43006 of size: 412
+Waiting with RTO for Seq:40326 
+Ack:40862 received - Prior Window Bottom:40326 - Window Top: 43398
+Removing Seq: 40326 from sender's buffer
+Waiting with RTO for Seq:40862 
+Added Seq: 43398 to send buffer
+Sending packet with seq: 43398 of size: 556
+Waiting with RTO for Seq:40862 
+TIMEOUT waiting for seq:40862
+Retransmitting Seq:40862 with Len:556 
+Waiting with RTO for Seq:40862 
+Ack:41398 received - Prior Window Bottom:40862 - Window Top: 43934
+Removing Seq: 40862 from sender's buffer
+Waiting with RTO for Seq:41398 
+Added Seq: 43934 to send buffer
+Sending packet with seq: 43934 of size: 556
+Waiting with RTO for Seq:41398 
+Ack:41398 received - Prior Window Bottom:41398 - Window Top: 44470
+Waiting with RTO for Seq:41398 
+TIMEOUT waiting for seq:41398
+Retransmitting Seq:41398 with Len:556 
+Waiting with RTO for Seq:41398 
+Ack:42470 received - Prior Window Bottom:41398 - Window Top: 44470
+Removing Seq: 41398 from sender's buffer
+Removing Seq: 41934 from sender's buffer
+Waiting with RTO for Seq:42470 
+Added Seq: 44470 to send buffer
+Sending packet with seq: 44470 of size: 556
+Waiting with RTO for Seq:42470 
+Added Seq: 45006 to send buffer
+Sending packet with seq: 45006 of size: 282
+Waiting with RTO for Seq:42470 
+Added Seq: 45268 to send buffer
+Sending packet with seq: 45268 of size: 294
+Waiting with RTO for Seq:42470 
+Ack:42470 received - Prior Window Bottom:42470 - Window Top: 45542
+Waiting with RTO for Seq:42470 
+Ack:42470 received - Prior Window Bottom:42470 - Window Top: 45542
+Waiting with RTO for Seq:42470 
+TIMEOUT waiting for seq:42470
+Retransmitting Seq:42470 with Len:556 
+Waiting with RTO for Seq:42470 
+Ack:45006 received - Prior Window Bottom:42470 - Window Top: 45542
+Removing Seq: 42470 from sender's buffer
+Removing Seq: 43006 from sender's buffer
+Removing Seq: 43398 from sender's buffer
+Removing Seq: 43934 from sender's buffer
+Removing Seq: 44470 from sender's buffer
+Waiting with RTO for Seq:45006 
+Added Seq: 45542 to send buffer
+Sending packet with seq: 45542 of size: 556
+Waiting with RTO for Seq:45006 
+Added Seq: 46078 to send buffer
+Sending packet with seq: 46078 of size: 556
+Waiting with RTO for Seq:45006 
+Added Seq: 46614 to send buffer
+Sending packet with seq: 46614 of size: 556
+Waiting with RTO for Seq:45006 
+Added Seq: 47150 to send buffer
+Sending packet with seq: 47150 of size: 556
+Waiting with RTO for Seq:45006 
+Added Seq: 47686 to send buffer
+Sending packet with seq: 47686 of size: 412
+Waiting with RTO for Seq:45006 
+Ack:45006 received - Prior Window Bottom:45006 - Window Top: 48078
+Waiting with RTO for Seq:45006 
+Ack:45006 received - Prior Window Bottom:45006 - Window Top: 48078
+Waiting with RTO for Seq:45006 
+Ack:45006 received - Prior Window Bottom:45006 - Window Top: 48078
+Waiting with RTO for Seq:45006 
+Ack:45006 received - Prior Window Bottom:45006 - Window Top: 48078
+Waiting with RTO for Seq:45006 
+TIMEOUT waiting for seq:45006
+Retransmitting Seq:45006 with Len:282 
+Waiting with RTO for Seq:45006 
+Ack:48078 received - Prior Window Bottom:45006 - Window Top: 48078
+Removing Seq: 45006 from sender's buffer
+Removing Seq: 45268 from sender's buffer
+Removing Seq: 45542 from sender's buffer
+Removing Seq: 46078 from sender's buffer
+Removing Seq: 46614 from sender's buffer
+Removing Seq: 47150 from sender's buffer
+Removing Seq: 47686 from sender's buffer
+Starting timer after empty window
+Added Seq: 48078 to send buffer
+Sending packet with seq: 48078 of size: 556
+Waiting with RTO for Seq:48078 
+Added Seq: 48614 to send buffer
+Sending packet with seq: 48614 of size: 556
+Waiting with RTO for Seq:48078 
+Added Seq: 49150 to send buffer
+Sending packet with seq: 49150 of size: 556
+Waiting with RTO for Seq:48078 
+Added Seq: 49686 to send buffer
+Sending packet with seq: 49686 of size: 556
+Waiting with RTO for Seq:48078 
+Added Seq: 50222 to send buffer
+Sending packet with seq: 50222 of size: 66
+Waiting with RTO for Seq:48078 
+Added Seq: 50268 to send buffer
+Sending packet with seq: 50268 of size: 556
+Waiting with RTO for Seq:48078 
+Added Seq: 50804 to send buffer
+Sending packet with seq: 50804 of size: 366
+Waiting with RTO for Seq:48078 
+Ack:48614 received - Prior Window Bottom:48078 - Window Top: 51150
+Removing Seq: 48078 from sender's buffer
+Waiting with RTO for Seq:48614 
+Ack:49150 received - Prior Window Bottom:48614 - Window Top: 51150
+Removing Seq: 48614 from sender's buffer
+Added Seq: 51150 to send buffer
+Sending packet with seq: 51150 of size: 556
+Waiting with RTO for Seq:49150 
+Ack:49150 received - Prior Window Bottom:49150 - Window Top: 51686
+Added Seq: 51686 to send buffer
+Sending packet with seq: 51686 of size: 556
+Waiting with RTO for Seq:49150 
+Ack:49150 received - Prior Window Bottom:49150 - Window Top: 52222
+Waiting with RTO for Seq:49150 
+Ack:49150 received - Prior Window Bottom:49150 - Window Top: 52222
+Waiting with RTO for Seq:49150 
+Ack:49150 received - Prior Window Bottom:49150 - Window Top: 52222
+Waiting with RTO for Seq:49150 
+Ack:49150 received - Prior Window Bottom:49150 - Window Top: 52222
+Waiting with RTO for Seq:49150 
+TIMEOUT waiting for seq:49150
+Retransmitting Seq:49150 with Len:556 
+Waiting with RTO for Seq:49150 
+Ack:52222 received - Prior Window Bottom:49150 - Window Top: 52222
+Removing Seq: 49150 from sender's buffer
+Removing Seq: 49686 from sender's buffer
+Removing Seq: 50222 from sender's buffer
+Removing Seq: 50268 from sender's buffer
+Removing Seq: 50804 from sender's buffer
+Removing Seq: 51150 from sender's buffer
+Removing Seq: 51686 from sender's buffer
+Starting timer after empty window
+Added Seq: 52222 to send buffer
+Sending packet with seq: 52222 of size: 556
+Waiting with RTO for Seq:52222 
+Added Seq: 52758 to send buffer
+Sending packet with seq: 52758 of size: 322
+Waiting with RTO for Seq:52222 
+Ack:52758 received - Prior Window Bottom:52222 - Window Top: 53060
+Removing Seq: 52222 from sender's buffer
+Waiting with RTO for Seq:52758 
+Ack:53060 received - Prior Window Bottom:52758 - Window Top: 53060
+Removing Seq: 52758 from sender's buffer
+Received 0 bytes of data with seq: 138, last ack sent: 138
+Added Recv: 138 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 139 with seq: 53060
+Received 0 bytes of data with seq: 138, last ack sent: 139
+Received Duplicate Packet with seq: 138
+Sending ack: 139 with seq: 53060
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 53060 to send buffer
+Waiting with RTO for Seq:53060 
+Received 0 bytes of data with seq: 138, last ack sent: 139
+Received Duplicate Packet with seq: 138
+Sending ack: 139 with seq: 53061
+Waiting with RTO for Seq:53060 
+PASSIVE - Never got ACK for FIN. Quitting!
+PASSIVE - RCVD SYN with seq: 118
+PASSIVE - SEND SYN_ACK Packet with seq: 28 and ack: 119 
+PASSIVE - RCVD Last Ack Packet has seq: 119 and ack: 29 
+Received 10 bytes of data with seq: 119, last ack sent: 119
+Added Recv: 119 to receive buffer
+Packet In Order. Emptying buffer
+Sending packet with Seq: 119 to application 
+Sending ack: 129 with seq: 29
+Starting timer after empty window
+Added Seq: 29 to send buffer
+Sending packet with seq: 29 of size: 36
+Waiting with RTO for Seq:29 
+Added Seq: 45 to send buffer
+Sending packet with seq: 45 of size: 40
+Waiting with RTO for Seq:29 
+Ack:45 received - Prior Window Bottom:29 - Window Top: 65
+Removing Seq: 29 from sender's buffer
+Waiting with RTO for Seq:45 
+Ack:65 received - Prior Window Bottom:45 - Window Top: 65
+Removing Seq: 45 from sender's buffer
+Received 0 bytes of data with seq: 129, last ack sent: 129
+Added Recv: 129 to receive buffer
+Packet In Order. Emptying buffer
+FIN PACKET RECEIVED. ACK SENT
+Sending ack: 130 with seq: 65
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 65
+App requested close there is space in window... SENDING FIN
+Starting timer for FIN after empty window
+Added Seq: 65 to send buffer
+Waiting with RTO for Seq:65 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 66
+Waiting with RTO for Seq:65 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 66
+Waiting with RTO for Seq:65 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 66
+Waiting with RTO for Seq:65 
+Received 0 bytes of data with seq: 129, last ack sent: 130
+Received Duplicate Packet with seq: 129
+Sending ack: 130 with seq: 66
+Waiting with RTO for Seq:65 
+PASSIVE - Never got ACK for FIN. Quitting!

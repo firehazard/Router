@@ -1,0 +1,4 @@
+for ((i= 0 ; i<=100 ; i++))
+do
+./client -U -f testfile myth3.stanford.edu:39192
+done
